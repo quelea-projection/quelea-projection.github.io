@@ -4,24 +4,24 @@
       <title>Quelea - missing language labels</title>
       <style>
          body {
-         font-family: Arial;
+             font-family: Arial;
          }
          .introtext {
-         display: block;
-         max-width: 600px;
+	     display: block;
+             max-width: 600px;
          }
          .labeltext {
-         font-family: Courier;
-         font-size: 0.85em;
+             font-family: Courier;
+             font-size: 0.85em;
          }
          .langHeader {
-         font-size: 1.2em;
-         font-weight: bold;
+             font-size: 1.2em;
+             font-weight: bold;
          }
          .headerLink {
-         margin-left: 5px;
-         font-size: 0.6em;
-         font-weight: normal;
+             margin-left: 5px;
+             font-size: 0.6em;
+             font-weight: normal;
          }
       </style>
 	  <script src="missinglabels.js"></script>
@@ -43,9 +43,9 @@
          	  if (mls.hasOwnProperty(key)) {
          		var labelBody = document.createElement("div");
          		for (var i = 0; i < mls[key].length; i++) {
-					var sp = document.createElement("div");
-					sp.innerHTML = mls[key][i];
-					labelBody.appendChild(sp);
+				var sp = document.createElement("div");
+				sp.innerHTML = mls[key][i];
+				labelBody.appendChild(sp);
          		}
          
          		var header = document.createElement("div");
@@ -54,7 +54,7 @@
          		var headerTitle = document.createElement("span");
          		headerTitle.innerHTML = key;
          
-                var headerLink = document.createElement("a");
+                        var headerLink = document.createElement("a");
          		headerLink.innerHTML = "[Show]";
          		headerLink.href = "javascript:toggleSec('" + section + "-section', '" + section + "-link');";
          		headerLink.classList.add("headerLink");
