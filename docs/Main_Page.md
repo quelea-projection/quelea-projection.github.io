@@ -1,13 +1,6 @@
 ---
 title: Main Page
-permalink: /Main_Page/
 ---
-
-<translate> <strong>Welcome to the Quelea Wiki!</strong>
-
-Index
------
-
 
 [License agreements](/License_agreements "wikilink")
 
@@ -130,5 +123,3 @@ Index
     1.  [Locating the debug log](/Debug_log "wikilink")
 
 7.  [FAQ (Frequently Asked Questions)](/FAQ_(Frequently_Asked_Questions) "wikilink")
-
-</translate>
