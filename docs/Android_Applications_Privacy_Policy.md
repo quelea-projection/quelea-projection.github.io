@@ -3,6 +3,8 @@ title: Android Applications Privacy Policy
 permalink: /Android_Applications_Privacy_Policy/
 ---
 
+# Android applications privacy policy
+
 Introduction
 ------------
 
