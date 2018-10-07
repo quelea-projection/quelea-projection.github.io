@@ -3,6 +3,8 @@ title: Adding items to Order of Service
 permalink: /Adding_items_to_Order_of_Service/
 ---
 
+# Adding items to the order of service
+
 The Order of Service, or Schedule, is a way for you to organize multiple items for a certain occasion, e.g. a service. You can add songs, Bible passages, images, presentations, timers and videos (from a file on your computer, from YouTube or from a DVD) and then place them in the order you would like to have them.
 
 Adding a song
