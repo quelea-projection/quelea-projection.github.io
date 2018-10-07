@@ -3,6 +3,8 @@ title: Mobile Lyrics
 permalink: /Mobile_Lyrics/
 ---
 
+# Mobile lyrics
+
 Mobile Lyrics is one of those features that make Quelea rather unique. It that allows you to view what is being displayed live via any web browser, as long as it is connected to the same network as Quelea. This can be used either as a complement to a projector or instead of one. Mobile Lyrics also allows each unit to set up individual layouts, making it easier for each reader to use their preferred colour settings. Also, note that there is an Android application called [Quelea Mobile Lyrics](https://play.google.com/store/apps/details?id=org.quelea.mobilelyrics) in the Google Play Store with some additional features to the browser version.
 
 Activating Mobile Lyrics
