@@ -3,6 +3,8 @@ title: Displaying a website
 permalink: /Displaying_a_website/
 ---
 
+# Displaying a website
+
 Usage
 =====
 
