@@ -63,6 +63,4 @@ some free resources.
 
 [← Previous chapter - Troubleshooting](Troubleshooting "Troubleshooting")
 
-</div>
-
 ---
