@@ -2,6 +2,7 @@
 title: FAQ (Frequently Asked Questions)
 permalink: /FAQ_(Frequently_Asked_Questions)/
 ---
+# Frequently asked questions (FAQ)
 
 If you have a question that is not answered below, search for your question here: <https://groups.google.com/forum/#!forum/quelea-discuss>. If you cannot find any information about your question there already, feel free to ask a new question.
 
