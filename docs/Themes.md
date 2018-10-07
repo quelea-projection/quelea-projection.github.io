@@ -17,8 +17,7 @@ from timers and presentations. Start by clicking the colourful button in
 the upper right corner of the Order of Service section. You will see the
 following.
 
-![<File:Quelea> manual-e-025.jpg](Quelea_manual-e-025.jpg
-"File:Quelea manual-e-025.jpg")
+![](Quelea_manual-e-025.jpg)
 
 You will find two example themes along with the default theme. You can
 edit (pencil button) or delete (red x button) the two example themes if
