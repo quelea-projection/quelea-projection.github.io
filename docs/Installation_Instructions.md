@@ -3,6 +3,8 @@ title: Installation Instructions
 permalink: /Installation_Instructions/
 ---
 
+# Installation instructions
+
 System requirements
 -------------------
 
