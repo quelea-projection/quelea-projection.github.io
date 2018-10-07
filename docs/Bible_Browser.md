@@ -3,6 +3,8 @@ title: Bible Browser
 permalink: /Bible_Browser/
 ---
 
+# Bible browser
+
 The bible browser lets you easily browse through entire Bible books. You find it under Tools and “View bibles...”
 
 [<File:Quelea> manual-e-070.png](/File:Quelea_manual-e-070.png "wikilink")
