@@ -19,8 +19,7 @@ in the Order of Service, or a Schedule as it also is called.
 Below is an example of songs in a database and an Order of Service
 (Schedule):
 
-![<File:Quelea> manual-e-001.png](Quelea_manual-e-001.png
-"File:Quelea manual-e-001.png")
+![](Quelea_manual-e-001.png)
 
 ## Preview
 
@@ -30,8 +29,7 @@ different text sections or by using your keyboard’s up and down arrow
 keys. When you are ready to show the item live, just click the “Go live”
 button.
 
-![<File:Quelea> manual-e-002.png](Quelea_manual-e-002.png
-"File:Quelea manual-e-002.png")
+![](Quelea_manual-e-002.png)
 
 ## Live
 
@@ -43,8 +41,7 @@ know](Shortcuts_and_other_things_that_are_good_to_know.md "Shortcuts and other t
 you are not ready to show the text live just yet, you have three options
 to hide the text: Logo button, Black Screen or Clear screen.
 
-![<File:Quelea> manual-e-003.png](Quelea_manual-e-003.png
-"File:Quelea manual-e-003.png")
+![](Quelea_manual-e-003.png)
 
 ### Logo button
 
@@ -52,8 +49,7 @@ If you select the Logo button, the [logo you have
 pre-assigned](Logo.md "Logo") will appear and any changes of slide or
 item will not appear until you deselect the button.
 
-![<File:Quelea> manual-e-004.png](Quelea_manual-e-004.png
-"File:Quelea manual-e-004.png")
+![](Quelea_manual-e-004.png)
 
 ### Black Screen
 
@@ -61,8 +57,7 @@ If you select the Black Screen button, the projector output will be
 completely black, not displaying any changes of slide or item until you
 deselect the button.
 
-![<File:Quelea> manual-e-005.png](Quelea_manual-e-005.png
-"File:Quelea manual-e-005.png")
+![](Quelea_manual-e-005.png)
 
 ### Clear screen
 
@@ -71,8 +66,7 @@ background image/video/colour you have pre-assigned will be the only
 thing visible on the output (see [Themes](Themes.md "Themes")). Any
 changes of slide or item will not appear until you deselect the button.
 
-![<File:Quelea> manual-e-006.png](Quelea_manual-e-006.png
-"File:Quelea manual-e-006.png")
+![](Quelea_manual-e-006.png)
 
 -----
 

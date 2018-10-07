@@ -10,16 +10,16 @@ program nainstalujte jako jakýkoly jiný. Program spusťte. najděte svůj
 export (kopii) z epicworshipu končící .epc a do programu ho přezáhněte a
 otevře se vám v notepad++ ( to lze udělat i přez praví klik myši a nebo
 přímo ho programem najít) mělo by to vypadat
-takhle![<File:Epc-1.jpg>](Epc-1.jpg "File:Epc-1.jpg") Tak teď příjde
+takhle![](Epc-1.jpg) Tak teď příjde
 duležitá část klikněte na formát a na konvertovat do UTF-8 (bez BOM) v
 pokud náhodou to máte v angličtině tak to bude (Convert to UTF-8
 (without BOM)) mělo by to vypadat takhle (pro jistotu ho ale instalujte
-v češtině) ![<File:Epc-2.jpg>](Epc-2.jpg "File:Epc-2.jpg") Pro jistotu v
+v češtině) ![](Epc-2.jpg) Pro jistotu v
 textu se mohou oběvovat nesmyslné kody a proto v tento moment zmáčněte
 zaráz tlačítka ctrl a H do horního políčka vložte \\u2026(to je kod pro
 3 tečky) a spodní nechcte prázdné.(pokud tam chcete 3 tečky vložte 3
 tečky, prosté že ano) Poté stiskněte nahradit vše mělo by to vypadat
-asi takto ![<File:Epc-znaky.jpg>](Epc-znaky.jpg "File:Epc-znaky.jpg") I
+asi takto ![](Epc-znaky.jpg) I
 přezto se pravděpodobně oběví další nesmysly začínající \\u2026 doporuju
 dát v tom případě ctr+f vyhledat vše co začíná \\u(za tým bude
 pravděpodobně nějaké číslo) okopírovat si ho a přez ctrl+h ten kod

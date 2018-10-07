@@ -12,8 +12,7 @@ If you do not want to embed media resources (to reduce the file size),
 see [make sure it is
 deactivated](General_tab.md#embed-media-in-schedule-file "General tab").
 
-![<File:Quelea> manual-e-072.png](Quelea_manual-e-072.png
-"File:Quelea manual-e-072.png")
+![](Quelea_manual-e-072.png)
 
 Printing a schedule allows you to print the order of service, not the
 lyrics of a song or the text of a Bible passage. The same goes for
@@ -24,20 +23,18 @@ click “Schedule” and “Export songs to PDF”. The songs will then be
 exported as a compressed Zip file that you first will have to decompress
 if you want to reach the PDF files.
 
-![<File:Export> to PDF.png](Export_to_PDF.png "File:Export to PDF.png")
+![](Export_to_PDF.png)
 
 To email a schedule via Quelea, you click “Schedule” and “Email
 Schedule”. That opens a new email in your system's default email
 software. If you wish to use another email client, you will have to
 attach the file manually.
 
-![<File:Quelea> manual-e-073.png](Quelea_manual-e-073.png
-"File:Quelea manual-e-073.png")
+![](Quelea_manual-e-073.png)
 
 This is what the email contains. The subject will be “Quelea schedule”.
 
-![<File:Quelea> manual-e-074.png](Quelea_manual-e-074.png
-"File:Quelea manual-e-074.png")
+![](Quelea_manual-e-074.png)
 
 -----
 

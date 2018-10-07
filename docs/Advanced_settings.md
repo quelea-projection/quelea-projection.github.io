@@ -16,16 +16,14 @@ more about it here, and feel free to discuss it at the Quelea forum.
 The easiest way is probably to fire up VLC, go to media, and then click
 on "Open capture device". You will see something like this:
 
-![<File:Quelea> manual-e-079.png](Quelea_manual-e-079.png
-"File:Quelea manual-e-079.png")
+![](Quelea_manual-e-079.png)
 
 You can then select whatever you want - for this example we will use the
 web camera connected to the computer and set the maximum size to
 640x480. Once you are done, hit the "Show more options" checkbox in the
 bottom left:
 
-![<File:Quelea> manual-e-080.png](Quelea_manual-e-080.png
-"File:Quelea manual-e-080.png")
+![](Quelea_manual-e-080.png)
 
 You will see two text fields at the bottom, "MRL" and "Edit Options".
 Take note of these values. (You may also want to hit "Play" right away
@@ -38,8 +36,7 @@ Paste the contents of the MRL field into the first line of the text
 file, and paste the contents of the "Edit Options" field into the second
 line.
 
-![<File:Quelea> manual-e-081.png](Quelea_manual-e-081.png
-"File:Quelea manual-e-081.png")
+![](Quelea_manual-e-081.png)
 
 Save the file, quit notepad and then change the ".txt" extension to
 ".vlcarg". Quelea should then pick it up as a video file, and pass on
@@ -65,8 +62,7 @@ Notepad (i.e. not MS Word), and look for these three lines (add them if
 they are not there): “logo.fade.duration=1000”,
 “black.fade.duration=1000” and “clear.fade.duration=1000”.
 
-![<File:Quelea> manual-e-082.png](Quelea_manual-e-082.png
-"File:Quelea manual-e-082.png")
+![](Quelea_manual-e-082.png)
 
 As you can see Quelea uses one second by default, but you can change the
 number to any time you would like Quelea to use when it fades in to

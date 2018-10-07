@@ -8,19 +8,17 @@ recordings to be stored.
 To start a recording, just click the recording button with a microphone
 at the top of the screen.
 
-![<File:Record> button.png](Record_button.png "File:Record button.png")
+![](Record_button.png)
 
 The recording button will then be pushed down and the elapsed time and a
 textbox containing the default name will appear.
 
-![<File:Recording> started.png](Recording_started.png
-"File:Recording started.png")
+![](Recording_started.png)
 
 If you want to change the name of the recording, just edit the text to
 whatever you want to call it.
 
-![<File:Rename> recording.png](Rename_recording.png
-"File:Rename recording.png")
+![](Rename_recording.png)
 
 Simply press the button again to stop recording. The recording will
 automatically be stored in the recordings path and if you have enabled

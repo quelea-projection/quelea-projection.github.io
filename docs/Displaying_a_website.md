@@ -4,30 +4,29 @@ Another feature that makes Quelea rather unique is the ability to
 project a website. Just select “Add website” in either the add menu
 (plus sign) or in the Schedule menu.
 
-![<File:Add> website.png](Add_website.png "File:Add website.png")
+![](Add_website.png)
 
 Then you need to add the URL to the website you want to display.
 
-![<File:Enter> URL.png](Enter_URL.png "File:Enter URL.png")
+![](Enter_URL.png)
 
 When you click OK, the website will be added to your schedule and start
 loading in the background. If you preview the item, you should see the
 web page loaded along with a few extra buttons.
 
-![<File:Web> preview.png](Web_preview.png "File:Web preview.png")
+![](Web_preview.png)
 
 You could then navigate to any subpage you might want to show or enter a
 new URL in the text box. When you are ready to show it live, click “Go
 live”.
 
-![<File:Web> live.png](Web_live.png "File:Web live.png")
+![](Web_live.png)
 
 Click directly on the preview image to pass a click onto the website and
 use the buttons to go back/forward, refresh, go to a new URL or zoom
 in/out.
 
-![<File:Web> navigation.png](Web_navigation.png
-"File:Web navigation.png")
+![](Web_navigation.png)
 
 # Limitations
 

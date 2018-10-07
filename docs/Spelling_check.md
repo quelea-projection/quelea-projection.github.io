@@ -5,8 +5,7 @@ you that there is at least on error in the lyrics. By clicking the “Aa”
 button that looks like a book, or by hitting F7 on your keyboard, you
 can access the spell checker.
 
-![<File:Quelea> manual-e-040.png](Quelea_manual-e-040.png
-"File:Quelea manual-e-040.png")
+![](Quelea_manual-e-040.png)
 
 Here you can change the misspelled word to one of the suggestions by
 selecting the desired suggestion and then clicking “Correct”, make the
@@ -16,8 +15,7 @@ clicking “Cancel”. Once you have clicked Ignore, Add or Correct, the
 spelling checker will automatically find any other spelling errors for
 you.
 
-![<File:Quelea> manual-e-041.png](Quelea_manual-e-041.png
-"File:Quelea manual-e-041.png")
+![](Quelea_manual-e-041.png)
 
 -----
 

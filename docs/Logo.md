@@ -9,8 +9,7 @@ you will be able to browse to the desired image. This image can later be
 used as an alternative to fade into, rather than fading to background
 image/colour/video or a blank screen.
 
-![<File:Quelea> manual-e-039.png](Quelea_manual-e-039.png
-"File:Quelea manual-e-039.png")
+![](Quelea_manual-e-039.png)
 
 -----
 

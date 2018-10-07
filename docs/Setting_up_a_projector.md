@@ -12,8 +12,7 @@ unto you projector rather than extended (see
 user and want an automatization of these steps, you could check out
 [Advanced settings](Advanced_settings.md "Advanced settings").
 
-![<File:Quelea> manual-e-007.png](Quelea_manual-e-007.png
-"File:Quelea manual-e-007.png")
+![](Quelea_manual-e-007.png)
 
 ## Using Test Patterns to adjust projector settings
 

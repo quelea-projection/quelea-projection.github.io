@@ -20,8 +20,7 @@ one for each screen, but that depends on your graphics card. If you have
 three outputs, you need to try them to find which screen you want to use
 for what.
 
-![<File:Quelea> manual-e-064.png](Quelea_manual-e-064.png
-"File:Quelea manual-e-064.png")
+![](Quelea_manual-e-064.png)
 
 Secondly, go to the tab Stage View. Here you can set up whether or not
 to use chords, how the text will align, font and colours for background,
@@ -30,14 +29,12 @@ change if you want a 24 hour clock or not. You can also select whether
 or not the Stage View should be cleared when the Main Display is
 cleared.
 
-![<File:Quelea> manual-e-065.png](Quelea_manual-e-065.png
-"File:Quelea manual-e-065.png")
+![](Quelea_manual-e-065.png)
 
 This is an example of what the stage monitor will display if no settings
 are changed.
 
-![<File:Quelea> manual-e-066.png](Quelea_manual-e-066.png
-"File:Quelea manual-e-066.png")
+![](Quelea_manual-e-066.png)
 
 -----
 

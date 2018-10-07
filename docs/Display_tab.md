@@ -21,8 +21,7 @@ ratio](http://en.wikipedia.org/wiki/Aspect_ratio_%28image%29) of the
 screen that you later will use, but this will not be discussed in detail
 here. For this example, the widescreen format 16:9 will be used.
 
-![<File:Quelea> manual-e-076.jpg](Quelea_manual-e-076.jpg
-"File:Quelea manual-e-076.jpg")
+![](Quelea_manual-e-076.jpg)
 
 As you can see, the screen will be located 50 pixels from the left side
 of the screen and 25 pixels down from the top of the screen, and be 640

@@ -2,8 +2,7 @@ The Bible tab lets you select a default Bible, add a Bible, select
 whether or not verse numbers should be displayed in bible passages and
 adjust the layout of a Bible passage.
 
-![<File:Quelea> manual-e-078.png](Quelea_manual-e-078.png
-"File:Quelea manual-e-078.png")
+![](Quelea_manual-e-078.png)
 
 ## Default Bible and add a Bible
 

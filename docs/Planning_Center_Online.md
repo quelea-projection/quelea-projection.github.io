@@ -5,11 +5,11 @@ sign in to Planning Center Online by going to Database -\> Import -\>
 Planning Center Online, or by pressing the keyboard shortcut ctrl + alt
 + p.
 
-![<File:PCO> login.png](PCO_login.png "File:PCO login.png")
+![](PCO_login.png)
 
 Once you have logged in, you can select what you want to import.
 
-![<File:PCO> import.png](PCO_import.png "File:PCO import.png")
+![](PCO_import.png)
 
 -----
 

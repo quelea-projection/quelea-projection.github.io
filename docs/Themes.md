@@ -17,8 +17,7 @@ from timers and presentations. Start by clicking the colourful button in
 the upper right corner of the Order of Service section. You will see the
 following.
 
-![<File:Quelea> manual-e-025.jpg](Quelea_manual-e-025.jpg
-"File:Quelea manual-e-025.jpg")
+![](Quelea_manual-e-025.jpg)
 
 You will find two example themes along with the default theme. You can
 edit (pencil button) or delete (red x button) the two example themes if
@@ -51,36 +50,31 @@ theme is the first line “Theme Name” which is needed to be able to save
 a global theme, other than that, the instructions are the same. As you
 will see, you can change Font appearance, Background and Text position.
 
-![<File:Quelea> manual-e-026.png](Quelea_manual-e-026.png
-"File:Quelea manual-e-026.png")
+![](Quelea_manual-e-026.png)
 
 ### Font appearance
 
 By default, there will only be six fonts available to you and “Noto
 Sans” will be the suggested font to use.
 
-![<File:Quelea> manual-e-027.png](Quelea_manual-e-027.png
-"File:Quelea manual-e-027.png")
+![](Quelea_manual-e-027.png)
 
 If you would like to add more fonts to choose between, you click the
 ellipsis (...) next to the drop-down menu.
 
-![<File:Quelea> manual-e-028.png](Quelea_manual-e-028.png
-"File:Quelea manual-e-028.png")
+![](Quelea_manual-e-028.png)
 
 That will open up a new window where you can drag and drop any font that
 you want to add from the left to the right, and any font you would like
 to remove from the right to the left.
 
-![<File:Quelea> manual-e-029.png](Quelea_manual-e-029.png
-"File:Quelea manual-e-029.png")
+![](Quelea_manual-e-029.png)
 
 Once you have selected the preferred font, you can select the font
 appearance: if you want the text to be bold, italic, alignment to the
 left, centre or right, and the font colour.
 
-![<File:Quelea> manual-e-030.png](Quelea_manual-e-030.png
-"File:Quelea manual-e-030.png")
+![](Quelea_manual-e-030.png)
 
 ### More font options – Translation appearance and Shadow settings
 
@@ -89,8 +83,7 @@ for the [translated lyrics](Translations.md "Translations"). You set it up in a
 similar way to the [previous font
 settings](#font-appearance "").
 
-![<File:Quelea> manual-e-031.png](Quelea_manual-e-031.png
-"File:Quelea manual-e-031.png")
+![](Quelea_manual-e-031.png)
 
 You can also set up whether or not you want to use shadows and the
 appearance of them. You can activate or deactivate shadow, set shadow
@@ -98,8 +91,7 @@ colour, shadow offset, shadow radius and shadow spread. All changes to
 the shadow settings will be previewed on the canvas, so you are
 immediately able to see the result.
 
-![<File:Quelea> manual-e-032.png](Quelea_manual-e-032.png
-"File:Quelea manual-e-032.png")
+![](Quelea_manual-e-032.png)
 
 ### Background
 
@@ -108,8 +100,7 @@ background](#colour-background ""), an [image
 background](#image-background "") or a [video
 background](#video-background "").
 
-![<File:Quelea> manual-e-033.png](Quelea_manual-e-033.png
-"File:Quelea manual-e-033.png")
+![](Quelea_manual-e-033.png)
 
 #### Colour background
 
@@ -118,8 +109,7 @@ that is a good contrast to the font colour. If you would choose two
 similar colours however, a warning will appear, telling you that it
 might be hard to read.
 
-![<File:Quelea> manual-e-034.png](Quelea_manual-e-034.png
-"File:Quelea manual-e-034.png")
+![](Quelea_manual-e-034.png)
 
 #### Image background
 
@@ -130,8 +120,7 @@ just browse to the folder in which it is stored, although you are
 advised to first read the image guidelines stored in the “img” folder in
 the Quelea main folder (IMAGE GUIDELINES.txt).
 
-![<File:Quelea> manual-e-035.png](Quelea_manual-e-035.png
-"File:Quelea manual-e-035.png")
+![](Quelea_manual-e-035.png)
 
 #### Video background
 
@@ -144,8 +133,7 @@ background, but that it requires advanced user settings; see [Using
 VLCARG to set up live video
 background)](Advanced_settings.md#using-vlcarg-to-set-up-live-video-background "Advanced settings").
 
-![<File:Quelea> manual-e-036.png](Quelea_manual-e-036.png
-"File:Quelea manual-e-036.png")
+![](Quelea_manual-e-036.png)
 
 If you want, Quelea can stretch the video to fit the screen. You can
 also adjust the hue, if you would like different colours to your
@@ -153,8 +141,7 @@ background video. Of course, this option is best to use only with
 abstract videos. (If you need more video settings, look into the
 advanced settings available through VLCARG mentioned earlier.)
 
-![<File:Quelea> manual-e-037.jpg](Quelea_manual-e-037.jpg
-"File:Quelea manual-e-037.jpg")
+![](Quelea_manual-e-037.jpg)
 
 ### Text position
 
@@ -162,8 +149,7 @@ If you hover the mouse over the canvas, where the sample text is
 displayed, nine boxes will appear. By selecting one of them, you can set
 the text position best suited for your projection environment.
 
-![<File:Quelea> manual-e-038.png](Quelea_manual-e-038.png
-"File:Quelea manual-e-038.png")
+![](Quelea_manual-e-038.png)
 
 -----
 

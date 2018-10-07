@@ -9,8 +9,7 @@ activated](Mobile_Lyrics.md#activating-mobile-lyrics "Mobile Lyrics") and then
 select Live Text under Tools, or use the keyboard shortcut ctrl + shift
 + L.
 
-![<File:Live> text input.png](Live_text_input.png
-"File:Live text input.png")
+![](Live_text_input.png)
 
 The Live Text window will then appear and there you also find
 instructions on how to use the feature. For each space or punctuation
@@ -19,8 +18,7 @@ users automatically. If the users are using the Android app, it is
 possible to combine this with the automatic translation feature through
 Bing. Below you can see how the text above will appear for the users.
 
-![<File:Live> text output.png](Live_text_output.png
-"File:Live text output.png")
+![](Live_text_output.png)
 
 -----
 

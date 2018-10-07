@@ -18,8 +18,7 @@ the service, select “Copy to schedule” instead or enable the setting
 [Copy song to schedule by
 default](Copy_song_to_schedule_by_default.md "Copy song to schedule by default").
 
-![<File:Quelea> manual-e-016.png](Quelea_manual-e-016.png
-"File:Quelea manual-e-016.png")
+![](Quelea_manual-e-016.png)
 
 ## Adding a Bible passage
 
@@ -31,17 +30,13 @@ selected, but you are free to select whichever translation you prefer.
 how you can add Bible translations at [Default Bible and add a
 Bible](Bible_tab.md#default-bible-and-add-a-bible "Bible tab").)
 
-![<File:Quelea> manual-e-017.png](Quelea_manual-e-017.png
-"File:Quelea manual-e-017.png")
+![](Quelea_manual-e-017.png)
 
 Next, you select your desired book by scrolling through them or by
 writing the first letters of the book. Note that the letters you write
 will not be visible but will be remembered as you continue typing.
 
-![<File:Quelea> manual-e-018.png](Quelea_manual-e-018.png
-"File:Quelea manual-e-018.png") ![<File:Quelea>
-manual-e-018b.png](Quelea_manual-e-018b.png
-"File:Quelea manual-e-018b.png")
+![](Quelea_manual-e-018.png) ![](Quelea_manual-e-018b.png)
 
 After that, you write the desired chapter and verse, separated with a
 colon (:). If you wish to add multiple verses, just separate the first
@@ -57,8 +52,7 @@ you click before or after the selection, the passage is extended to/from
 that verse. If you click a verse in the selection, that will become the
 first verse of the passage.
 
-![<File:Quelea> manual-e-019.png](Quelea_manual-e-019.png
-"File:Quelea manual-e-019.png")
+![](Quelea_manual-e-019.png)
 
 Once you have found the desired passage, press enter or click “Add to
 Schedule”. (If you later decide you would like to change the Bible
@@ -71,15 +65,13 @@ images found in the Images tab or drag and drop it in your schedule. If
 you wish to add your own images, just click the Plus button on your left
 and browse to the desired image.
 
-![<File:Quelea> manual-e-020.jpg](Quelea_manual-e-020.jpg
-"File:Quelea manual-e-020.jpg")
+![](Quelea_manual-e-020.jpg)
 
 Alternatively, you could also add images by using the option in the add
 menu. This option is explained in detail in the section [Displaying an
 image group](Displaying_an_image_group.md "Displaying an image group").
 
-![<File:Quelea> manual-e-020b.png](Quelea_manual-e-020b.png
-"File:Quelea manual-e-020b.png")
+![](Quelea_manual-e-020b.png)
 
 ## Adding multimedia
 
@@ -92,8 +84,7 @@ Tab](General_tab#Show_Video_Library_Tab_\(requires_restart\) "General tab"),
 you can also add a video from that tab in a similar way to how you add
 images.
 
-![<File:Quelea> manual-e-021.jpg](Quelea_manual-e-021.jpg
-"File:Quelea manual-e-021.jpg")
+![](Quelea_manual-e-021.jpg)
 
 ## Adding a presentation
 
@@ -103,8 +94,7 @@ desired presentation stored on your local computer. To set up Quelea to
 use OpenOffice Impress or Microsoft PowerPoint for further features, see
 [Presentations tab](Presentations_tab.md "Presentations tab").
 
-![<File:Quelea> manual-e-023.jpg](Quelea_manual-e-023.jpg
-"File:Quelea manual-e-023.jpg")
+![](Quelea_manual-e-023.jpg)
 
 ## Organizing a schedule
 
@@ -114,8 +104,7 @@ button).
 
 You can also drag the items around if you prefer.
 
-![<File:Quelea> manual-e-024.png](Quelea_manual-e-024.png
-"File:Quelea manual-e-024.png")
+![](Quelea_manual-e-024.png)
 
 ## Themes
 

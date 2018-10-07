@@ -8,8 +8,7 @@ ctrl and selecting multiple items.
 Once you have added them to the schedule, you can use the image group
 exactly the same way as [a PDF file](Displaying_a_PDF.md "Displaying a PDF").
 
-![<File:Image> group example.png](Image_group_example.png
-"File:Image group example.png")
+![](Image_group_example.png)
 
 -----
 
