@@ -3,6 +3,8 @@ title: Bible search
 permalink: /Bible_search/
 ---
 
+# Bible search
+
 In case you do not know where the Bible passage you want to use is, you can use the Bible searcher. You find it under Tools and “Search bibles...”
 
 [<File:Quelea> manual-e-067.png](/File:Quelea_manual-e-067.png "wikilink")
