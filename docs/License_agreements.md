@@ -3,6 +3,8 @@ title: License agreements
 permalink: /License_agreements/
 ---
 
+# License agreements
+
 <translate>
 
 The software
