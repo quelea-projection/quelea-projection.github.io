@@ -7,10 +7,10 @@ Database](#schedule-and-database "Schedule and Database"),
 Below you see the Order of Service and the Database, where all your
 songs will be stored and can be organised for different occasion. The
 first time you start Quelea you will need to [add
-songs](Adding_items_to_Order_of_Service.md#adding-a-song "Adding items to Order of Service") to the
+songs](Adding_items_to_Order_of_Service#adding-a-song "Adding items to Order of Service") to the
 database. Once you have added songs to the database you can start
 [organizing
-them](Adding_items_to_Order_of_Service.md#organizing-a-schedule "Adding items to Order of Service")
+them](Adding_items_to_Order_of_Service#organizing-a-schedule "Adding items to Order of Service")
 in the Order of Service, or a Schedule as it also is called.
 
 ![Quelea_manual-e-000.png](Quelea_manual-e-000.png
@@ -37,7 +37,7 @@ In the live section you can switch between the slides by clicking the
 different text sections, by using your keyboard’s up and down arrow
 keys, the Page Up and the Page Down keys or by using section shortcuts
 (see [Shortcuts and other things that are good to
-know](Shortcuts_and_other_things_that_are_good_to_know.md "Shortcuts and other things that are good to know")). If
+know](Shortcuts_and_other_things_that_are_good_to_know "Shortcuts and other things that are good to know")). If
 you are not ready to show the text live just yet, you have three options
 to hide the text: Logo button, Black Screen or Clear screen.
 
@@ -46,7 +46,7 @@ to hide the text: Logo button, Black Screen or Clear screen.
 ### Logo button
 
 If you select the Logo button, the [logo you have
-pre-assigned](Logo.md "Logo") will appear and any changes of slide or
+pre-assigned](Logo "Logo") will appear and any changes of slide or
 item will not appear until you deselect the button.
 
 ![](Quelea_manual-e-004.png)
@@ -63,7 +63,7 @@ deselect the button.
 
 If you select the Clear Screen button, any text will disappear and the
 background image/video/colour you have pre-assigned will be the only
-thing visible on the output (see [Themes](Themes.md "Themes")). Any
+thing visible on the output (see [Themes](Themes "Themes")). Any
 changes of slide or item will not appear until you deselect the button.
 
 ![](Quelea_manual-e-006.png)
@@ -73,7 +73,7 @@ changes of slide or item will not appear until you deselect the button.
 
 
 [← Chapter index - Short introduction to
-Quelea](Short_introduction_to_Quelea.md "Short introduction to Quelea")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Setting
-up a projector →](Setting_up_a_projector.md "Setting up a projector")
+Quelea](Short_introduction_to_Quelea "Short introduction to Quelea")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Setting
+up a projector →](Setting_up_a_projector "Setting up a projector")
 
 ---

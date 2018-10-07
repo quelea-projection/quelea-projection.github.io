@@ -7,7 +7,7 @@ readability reasons. If you have trouble finding a layout that works for
 anyone (for instance, some churches have found that dyslectic persons
 might sometimes be helped by different colours that others might
 prefer), you might want to take a look at the [Mobile
-Lyrics](Mobile_Lyrics.md "Mobile Lyrics") feature, where each reader can assign
+Lyrics](Mobile_Lyrics "Mobile Lyrics") feature, where each reader can assign
 their own colours.
 
 ## Set a global theme
@@ -79,7 +79,7 @@ left, centre or right, and the font colour.
 ### More font options – Translation appearance and Shadow settings
 
 By pressing the ellipsis button (...) next to “Font” you find settings
-for the [translated lyrics](Translations.md "Translations"). You set it up in a
+for the [translated lyrics](Translations "Translations"). You set it up in a
 similar way to the [previous font
 settings](#font-appearance "").
 
@@ -131,7 +131,7 @@ need to browse to the desired video and the file browser will open the
 Quelea video folder first. (Note that you also can use live video as
 background, but that it requires advanced user settings; see [Using
 VLCARG to set up live video
-background)](Advanced_settings.md#using-vlcarg-to-set-up-live-video-background "Advanced settings").
+background)](Advanced_settings#using-vlcarg-to-set-up-live-video-background "Advanced settings").
 
 ![](Quelea_manual-e-036.png)
 
@@ -155,7 +155,7 @@ the text position best suited for your projection environment.
 
 
 
-[← Chapter index - Additional features](Additional_features.md "Additional features")
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Logo →](Logo.md "Logo")
+[← Chapter index - Additional features](Additional_features "Additional features")
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Logo →](Logo "Logo")
 
 ---

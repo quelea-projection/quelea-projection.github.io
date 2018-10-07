@@ -6,7 +6,7 @@ you get if you click the background and drag the mouse or by holding
 ctrl and selecting multiple items.
 
 Once you have added them to the schedule, you can use the image group
-exactly the same way as [a PDF file](Displaying_a_PDF.md "Displaying a PDF").
+exactly the same way as [a PDF file](Displaying_a_PDF "Displaying a PDF").
 
 ![](Image_group_example.png)
 
@@ -14,8 +14,8 @@ exactly the same way as [a PDF file](Displaying_a_PDF.md "Displaying a PDF").
 
 
 
-[← Displaying a website](Displaying_a_website.md "Displaying a website")
+[← Displaying a website](Displaying_a_website "Displaying a website")
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Planning Center Online
-→](Planning_Center_Online.md "Planning Center Online")
+→](Planning_Center_Online "Planning Center Online")
 
 ---

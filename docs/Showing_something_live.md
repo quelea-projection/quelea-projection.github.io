@@ -11,8 +11,8 @@ however, that this will not work if the database panel is selected.
 
 
 [← Adding items to Order of
-Service](Adding_items_to_Order_of_Service.md "Adding items to Order of Service")
+Service](Adding_items_to_Order_of_Service "Adding items to Order of Service")
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Ready to go
-→](Ready_to_go.md "Ready to go")
+→](Ready_to_go "Ready to go")
 
 ---

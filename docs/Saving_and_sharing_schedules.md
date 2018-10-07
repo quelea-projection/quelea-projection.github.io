@@ -1,6 +1,6 @@
 Quelea can save a schedule for later use, help you print one or email
 one to a friend. To save a schedule that you have
-[created](Adding_items_to_Order_of_Service.md "Adding items to Order of Service"), click “File” and
+[created](Adding_items_to_Order_of_Service "Adding items to Order of Service"), click “File” and
 “Save Schedule” or “Save Schedule as...” If you have opened an existing
 file, the latter will always let you save changes to a new schedule
 whereas the first will save the changes to the same file as when it was
@@ -10,7 +10,7 @@ information to the file, so even if your database would be deleted or
 you would send it to another user, everything will still be accessible.
 If you do not want to embed media resources (to reduce the file size),
 see [make sure it is
-deactivated](General_tab.md#embed-media-in-schedule-file "General tab").
+deactivated](General_tab#embed-media-in-schedule-file "General tab").
 
 ![](Quelea_manual-e-072.png)
 
@@ -40,8 +40,8 @@ This is what the email contains. The subject will be “Quelea schedule”.
 
 
 
-[← Bible Browser](Bible_Browser.md "Bible Browser") &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[← Bible Browser](Bible_Browser "Bible Browser") &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [Exporting or printing a song
-→](Exporting_or_printing_a_song.md "Exporting or printing a song")
+→](Exporting_or_printing_a_song "Exporting or printing a song")
 
 ---

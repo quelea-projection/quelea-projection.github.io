@@ -11,8 +11,8 @@ Select the desired translation and book and start reading.
 
 
 
-[← Bible search](Bible_search.md "Bible search") &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[← Bible search](Bible_search "Bible search") &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [Saving and sharing schedules
-→](Saving_and_sharing_schedules.md "Saving and sharing schedules")
+→](Saving_and_sharing_schedules "Saving and sharing schedules")
 
 ---

@@ -28,13 +28,13 @@ Clicking a verse will display the chapter for you to read. If you wish
 to add your search result to your schedule, click the “Add to Schedule”
 button and the entire chapter will be added. If you only want to add
 that verse, you have to do it manually (see [Adding a Bible
-passage](Adding_items_to_Order_of_Service.md#adding-a-bible-passage "Adding items to Order of Service")).
+passage](Adding_items_to_Order_of_Service#adding-a-bible-passage "Adding items to Order of Service")).
 
 -----
 
 
 
-[← Stage View](Stage_View.md "Stage View") &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Bible
-Browser →](Bible_Browser.md "Bible Browser")
+[← Stage View](Stage_View "Stage View") &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Bible
+Browser →](Bible_Browser "Bible Browser")
 
 ---

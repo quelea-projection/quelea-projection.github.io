@@ -69,7 +69,7 @@ some free resources.
 
 
 
-[← Previous chapter - Troubleshooting](Troubleshooting.md "Troubleshooting")
+[← Previous chapter - Troubleshooting](Troubleshooting "Troubleshooting")
 
 </div>
 

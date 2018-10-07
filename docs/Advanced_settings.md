@@ -42,7 +42,7 @@ Save the file, quit notepad and then change the ".txt" extension to
 ".vlcarg". Quelea should then pick it up as a video file, and pass on
 the MRL and options you specified to VLC directly. This means you can
 add the file you just created as a video background (see [Video
-background](Themes.md#video-background "Themes")). Note that Quelea will
+background](Themes#video-background "Themes")). Note that Quelea will
 save a copy of the file you created in the Quelea video folder, which
 means you will need to edit the copied version, not the original that
 you created, if you need to change the settings.
@@ -91,7 +91,7 @@ a projector. If you know for sure that you will not use Stage View (see
 2.8), this might be a good option in case you have a cable with a glitch
 or be worried that it might be disconnected in the middle of a service.
 Without this option, you always need to set up the [screen output
-manually](Display_tab.md "Display tab").
+manually](Display_tab "Display tab").
 
 To enable this feature, add the following line to the properties file.
 
@@ -103,10 +103,10 @@ use.auto.extend=true
 
 
 
-[← Server Settings tab](Server_Settings_tab.md "Server Settings tab")
+[← Server Settings tab](Server_Settings_tab "Server Settings tab")
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Chapter 5 - Shortcuts and other things that
 are good to know
-→](Shortcuts_and_other_things_that_are_good_to_know.md "Shortcuts and other things that
+→](Shortcuts_and_other_things_that_are_good_to_know "Shortcuts and other things that
 are good to know")
 
 ---

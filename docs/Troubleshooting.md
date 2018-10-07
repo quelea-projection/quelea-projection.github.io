@@ -26,7 +26,7 @@ In newer versions, that option doesn't exist, so you'll need to do this:
 ## My animations/transitions in a presentation do not appear
 
 Try to use the native [PowerPoint or OpenOffice
-support](Presentations_tab.md "Presentations tab") instead. The built-in
+support](Presentations_tab "Presentations tab") instead. The built-in
 presentation feature converts your presentation to a set of images and
 will therefore not preserve any transitions or any other effects you
 might have added. There is no flawless solution yet due to technical
@@ -38,11 +38,11 @@ a separate software for you presentation needs.
 The font size is automatically calculated based on how much text there
 is per section. Try to split the text into more sections by adding a
 blank line/set a [maximum amount of verses per slide for a Bible
-passage](Bible_tab.md#layout-of-bible-passages "Bible tab"), change the
-[maximum font size](General_tab.md#maximum-font-size "General tab") to a
+passage](Bible_tab#layout-of-bible-passages "Bible tab"), change the
+[maximum font size](General_tab#maximum-font-size "General tab") to a
 higher value, lower the [maximum amount of characters per
-line](General_tab.md#maximum-characters-per-line "General tab") or uncheck the
-[uniform font size](General_tab.md#use-uniform-font-size "General tab") and
+line](General_tab#maximum-characters-per-line "General tab") or uncheck the
+[uniform font size](General_tab#use-uniform-font-size "General tab") and
 see if anything helps you.
 
 ## VLC is not found even though it is installed
@@ -86,7 +86,7 @@ the developers in the discussion forum on how to re-enable it.
 
 
 [← Previous chapter - Shortcuts and other things that are good to
-know](Shortcuts_and_other_things_that_are_good_to_know.md "Shortcuts and other things that are good to know")
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Chapter 7 - FAQ (Frequently Asked Questions) →](FAQ_(Frequently_Asked_Questions).md "FAQ (Frequently Asked Questions)")
+know](Shortcuts_and_other_things_that_are_good_to_know "Shortcuts and other things that are good to know")
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Chapter 7 - FAQ (Frequently Asked Questions) →](FAQ_(Frequently_Asked_Questions) "FAQ (Frequently Asked Questions)")
 
 ---

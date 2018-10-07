@@ -28,7 +28,7 @@ might have to be swapped for the version number you might have.
 
 
 
-[← Notices tab](Notices_tab.md "Notices tab") &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[Bible tab →](Bible_tab.md "Bible tab")
+[← Notices tab](Notices_tab "Notices tab") &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[Bible tab →](Bible_tab "Bible tab")
 
 ---

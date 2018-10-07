@@ -27,8 +27,8 @@ chapters.
 | 1-9 | Jump to a slide number or a verse number (if you have added section titles) |
 | C, B, P, T | Jump to a section title (chorus, bridge, pre-chorus, tag) if you have added it to the song |
 | Ctrl/Shift | A pencil will appear if you can edit a slide and a  small dialog will appear if you click, allowing you to change only that slide |
-| Ctrl + Shift + L | Open [Live Text](Live_Text.md "Live Text") |
-| Ctrl + Alt + P | Open [Planning Center Online](Planning_Center_Online.md "Planning Center Online") import |
+| Ctrl + Shift + L | Open [Live Text](Live_Text "Live Text") |
+| Ctrl + Alt + P | Open [Planning Center Online](Planning_Center_Online "Planning Center Online") import |
 
 ## Good to know
 
@@ -48,14 +48,14 @@ chapter.
 
 * There are nightly releases available with experimental features (see
 [FAQ (Frequently Asked
-Questions)](FAQ_\(Frequently_Asked_Questions\).md "Frequently Asked Questions"))
+Questions)](FAQ_\(Frequently_Asked_Questions\) "Frequently Asked Questions"))
 
 * The aim is that a new stable release of Quelea will be available each
 six months.
 
 * There are many planed features for future releases. To see some of
 them, see [FAQ (Frequently Asked
-Questions)](FAQ_\(Frequently_Asked_Questions\).md "Frequently Asked Questions").
+Questions)](FAQ_\(Frequently_Asked_Questions\) "Frequently Asked Questions").
 
 * The discussion group is available for all your questions, bug
 reporting and opinions about Quelea.
@@ -65,15 +65,15 @@ suggest a new feature, go to <https://quelea.org/feedback/>
 ## Specific Hacks
 
 [Using translation to multi-format a slide (Minister/Response
-hack)](Minister_Response_Hack.md "Minister/Response hack")
+hack)](Minister_Response_Hack "Minister/Response hack")
 
 -----
 
 
 
 [← Previous chapter - Setting up Quelea for your
-needs](Setting_up_Quelea_for_your_needs.md "Setting up Quelea for your needs")
+needs](Setting_up_Quelea_for_your_needs "Setting up Quelea for your needs")
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Chapter 6 - Troubleshooting
-→](Troubleshooting.md "Troubleshooting")
+→](Troubleshooting "Troubleshooting")
 
 ---

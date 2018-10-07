@@ -15,7 +15,7 @@ need to decide whether you should display it a certain amount of times
 or if it should stay active until you delete it (“Infinite?”). Lastly
 you can set up the font and colour of the notice. (For further notice
 settings, see [Notices
-tab](Setting_up_Quelea_for_your_needs.md#notices "Setting up Quelea for your needs"))
+tab](Setting_up_Quelea_for_your_needs#notices "Setting up Quelea for your needs"))
 
 ![](Quelea_manual-e-062.png)
 
@@ -29,7 +29,7 @@ right to left (in this example, the Mobile Lyrics URL).
 
 
 
-[← Mobile Remote](Mobile_Remote.md "Mobile Remote") &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[Stage View →](Stage_View.md "Stage View")
+[← Mobile Remote](Mobile_Remote "Mobile Remote") &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[Stage View →](Stage_View "Stage View")
 
 ---

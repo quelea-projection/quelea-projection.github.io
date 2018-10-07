@@ -13,8 +13,8 @@ change the settings will not be affected).
 
 
 
-[← Stage View tab](Stage_View_tab.md "Stage View tab")
+[← Stage View tab](Stage_View_tab "Stage View tab")
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Presentations tab
-→](Presentations_tab.md "Presentations tab")
+→](Presentations_tab "Presentations tab")
 
 ---

@@ -64,7 +64,7 @@ use the dedicated buttons on the webpage to change slides.
 
 
 
-[← Mobile Lyrics](Mobile_Lyrics.md "Mobile Lyrics") &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[Notices →](Notices.md "Notices")
+[← Mobile Lyrics](Mobile_Lyrics "Mobile Lyrics") &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[Notices →](Notices "Notices")
 
 ---

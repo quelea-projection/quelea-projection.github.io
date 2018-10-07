@@ -9,11 +9,11 @@ the database.
 After clicking the button you will see the following dialog where you
 can add the name of the song and the author, along with the lyrics. You
 might also add chords that you later can use with [Stage
-View](Stage_View.md "Stage View"). It is also possible to transpose the
+View](Stage_View "Stage View"). It is also possible to transpose the
 chords by clicking the button with the two notes. If you assign labels
 to the sections, by using the buttons with a letter on them or by
 writing, you will later be able to use keyboard navigation to navigate
-through the song (see [Section titles](Section_titles.md "Section titles")).
+through the song (see [Section titles](Section_titles "Section titles")).
 
 ![](Quelea_manual-e-010.png)
 
@@ -21,7 +21,7 @@ After you have added the lyrics, you might also want to add more
 information about the song, like CCLI number, Copyright or Year. You
 could also add a translation to a song or a separate theme for this
 song. For detailed information on how to do that see section 2.
-[Additional features](Additional_features.md "Additional features") or follow the
+[Additional features](Additional_features "Additional features") or follow the
 instructions under the dedicated tabs (Detailed information,
 Translations, Theme).
 
@@ -41,7 +41,7 @@ For this example we will use an EasySlides XML file, but the steps are
 similar when you import from another source. The only major exception is
 importing through Planning Center Online, so for further instructions on
 how to use that feature, check [Planning Center
-Online](Planning_Center_Online.md "Planning Center Online").
+Online](Planning_Center_Online "Planning Center Online").
 
 ![](Quelea_manual-e-012.png)
 
@@ -67,15 +67,15 @@ and click on “Add”.
 
 Once Quelea has finished importing the songs they will appear in your
 database and you are now able to [add songs to a
-schedule](Adding_items_to_Order_of_Service.md#adding-a-song "Adding items to Order of Service") and
-[showing them live.](Showing_something_live.md "Showing something live")
+schedule](Adding_items_to_Order_of_Service#adding-a-song "Adding items to Order of Service") and
+[showing them live.](Showing_something_live "Showing something live")
 
 -----
 
 
 
-[← Setting up a projector](Setting_up_a_projector.md "Setting up a projector")
+[← Setting up a projector](Setting_up_a_projector "Setting up a projector")
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Adding items to Order of Service
-→](Adding_items_to_Order_of_Service.md "Adding items to Order of Service")
+→](Adding_items_to_Order_of_Service "Adding items to Order of Service")
 
 ---

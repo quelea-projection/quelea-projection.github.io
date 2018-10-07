@@ -23,7 +23,7 @@ whatever you want to call it.
 Simply press the button again to stop recording. The recording will
 automatically be stored in the recordings path and if you have enabled
 [VLC
-converting](Recordings_tab.md#automatically-convert-recordings-to-MP3-files-(requires-VLC) "Recordings tab"),
+converting](Recordings_tab#automatically-convert-recordings-to-MP3-files-(requires-VLC) "Recordings tab"),
 your file will automatically be stored as a MP3 and the default WAV file
 will be deleted.
 
@@ -32,7 +32,7 @@ will be deleted.
 
 
 [← Exporting or printing a
-song](Exporting_or_printing_a_song.md "Exporting or printing a song")
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Timer →](Timer.md "Timer")
+song](Exporting_or_printing_a_song "Exporting or printing a song")
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Timer →](Timer "Timer")
 
 ---

@@ -30,7 +30,7 @@ MP3 and the default WAV file will be deleted.
 
 
 [← Exporting or printing a
-song](Exporting_or_printing_a_song.md "Exporting or printing a song")
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Timer →](Timer.md "Timer")
+song](Exporting_or_printing_a_song "Exporting or printing a song")
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Timer →](Timer "Timer")
 
 ---

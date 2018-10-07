@@ -1,11 +1,11 @@
 Live Text is a feature to use with [Mobile
-Lyrics](Mobile_Lyrics.md "Mobile Lyrics") to send text to the users while you
+Lyrics](Mobile_Lyrics "Mobile Lyrics") to send text to the users while you
 write. This could for instance be used for texted interpretation, to
 summarize a sermon for someone with trouble hearing or as a way to send
 messages to the worship team if they are the only ones using it.
 
 Start by making sure that the Mobile Lyrics server [is
-activated](Mobile_Lyrics.md#activating-mobile-lyrics "Mobile Lyrics") and then
+activated](Mobile_Lyrics#activating-mobile-lyrics "Mobile Lyrics") and then
 select Live Text under Tools, or use the keyboard shortcut ctrl + shift
 + L.
 
@@ -24,7 +24,7 @@ Bing. Below you can see how the text above will appear for the users.
 
 
 
-[← Planning Center Online](Planning_Center_Online.md "Planning Center Online")
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Chapter 4 - Setting up Quelea for your needs →](Setting_up_Quelea_for_your_needs.md "Setting up Quelea for your needs")
+[← Planning Center Online](Planning_Center_Online "Planning Center Online")
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Chapter 4 - Setting up Quelea for your needs →](Setting_up_Quelea_for_your_needs "Setting up Quelea for your needs")
 
 ---

@@ -16,7 +16,7 @@ to schedule”. If you want to make sure that the version that you have in
 your database will remain untouched even if you edit the lyrics during
 the service, select “Copy to schedule” instead or enable the setting
 [Copy song to schedule by
-default](Copy_song_to_schedule_by_default.md "Copy song to schedule by default").
+default](Copy_song_to_schedule_by_default "Copy song to schedule by default").
 
 ![](Quelea_manual-e-016.png)
 
@@ -24,11 +24,11 @@ default](Copy_song_to_schedule_by_default.md "Copy song to schedule by default")
 
 To add a Bible passage to your schedule, you start by selecting the
 Bible tab. There your [default
-Bible](Bible_tab.md#default-bible-and-add-a-bible "Bible tab") will be
+Bible](Bible_tab#default-bible-and-add-a-bible "Bible tab") will be
 selected, but you are free to select whichever translation you prefer.
 (If your preferred translation is not in Quelea by default, read about
 how you can add Bible translations at [Default Bible and add a
-Bible](Bible_tab.md#default-bible-and-add-a-bible "Bible tab").)
+Bible](Bible_tab#default-bible-and-add-a-bible "Bible tab").)
 
 ![](Quelea_manual-e-017.png)
 
@@ -69,7 +69,7 @@ and browse to the desired image.
 
 Alternatively, you could also add images by using the option in the add
 menu. This option is explained in detail in the section [Displaying an
-image group](Displaying_an_image_group.md "Displaying an image group").
+image group](Displaying_an_image_group "Displaying an image group").
 
 ![](Quelea_manual-e-020b.png)
 
@@ -92,7 +92,7 @@ To add a presentation you hover the mouse over the add button in the top
 of the screen, click the option "Add Presentation" and browse to the
 desired presentation stored on your local computer. To set up Quelea to
 use OpenOffice Impress or Microsoft PowerPoint for further features, see
-[Presentations tab](Presentations_tab.md "Presentations tab").
+[Presentations tab](Presentations_tab "Presentations tab").
 
 ![](Quelea_manual-e-023.jpg)
 
@@ -108,7 +108,7 @@ You can also drag the items around if you prefer.
 
 ## Themes
 
-How to set up themes will be [covered further on](Themes.md "Themes"),
+How to set up themes will be [covered further on](Themes "Themes"),
 but it might be good for you to know that you can use themes to set up
 font, colours, image or video background, text alignments or other
 non-standard settings. You find the themes located in the upper right
@@ -119,8 +119,8 @@ corner of the Order of Service section; a colourful button.
 
 
 [← Adding songs to your
-database](Adding_songs_to_your_database.md "Adding songs to your database")
+database](Adding_songs_to_your_database "Adding songs to your database")
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Showing something live
-→](Showing_something_live.md "Showing something live")
+→](Showing_something_live "Showing something live")
 
 ---

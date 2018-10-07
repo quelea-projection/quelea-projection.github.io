@@ -8,9 +8,9 @@ Projector screen to Output 2 and press OK. (If the black projector
 screen now would appear on your computer, try changing the output
 again.) Note you might not see a second output if the screen is cloned
 unto you projector rather than extended (see
-[Troubleshooting](Troubleshooting.md "Troubleshooting")). If you are an advanced
+[Troubleshooting](Troubleshooting "Troubleshooting")). If you are an advanced
 user and want an automatization of these steps, you could check out
-[Advanced settings](Advanced_settings.md "Advanced settings").
+[Advanced settings](Advanced_settings "Advanced settings").
 
 ![](Quelea_manual-e-007.png)
 
@@ -30,7 +30,7 @@ your projector output that you set up in the previous step.
 
 
 
-[← Layout](Layout.md "Layout") &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Adding songs
-to your database →](Adding_songs_to_your_database.md "Adding songs to your database")
+[← Layout](Layout "Layout") &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Adding songs
+to your database →](Adding_songs_to_your_database "Adding songs to your database")
 
 ---

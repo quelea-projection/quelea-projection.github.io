@@ -64,8 +64,8 @@ a future Java update will contain an updated browser.
 
 
 
-[← Displaying a PDF](Displaying_a_PDF.md "Displaying a PDF")
+[← Displaying a PDF](Displaying_a_PDF "Displaying a PDF")
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Displaying an image group
-→](Displaying_an_image_group.md "Displaying an image group")
+→](Displaying_an_image_group "Displaying an image group")
 
 ---

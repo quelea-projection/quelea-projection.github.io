@@ -11,7 +11,7 @@ there is/are any.
 
 
 [← Saving and sharing
-schedules](Saving_and_sharing_schedules.md "Saving and sharing schedules")
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Recording →](Recording.md "Recording")
+schedules](Saving_and_sharing_schedules "Saving and sharing schedules")
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Recording →](Recording "Recording")
 
 ---

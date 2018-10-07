@@ -30,7 +30,7 @@ software. </translate>
 <div style="text-align: right;">
 
 [Chapter 1 - Short introduction to Quelea
-\>](Short_introduction_to_Quelea.md "Short introduction to Quelea")
+\>](Short_introduction_to_Quelea "Short introduction to Quelea")
 
 </div>---
 

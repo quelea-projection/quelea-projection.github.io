@@ -60,19 +60,19 @@ desired colour.
 ![](Quelea_manual-e-054.jpg)
 
 It is also possible to show
-[chords](Adding_songs_to_your_database.md#creating-a-new-song "Adding songs to your database")
+[chords](Adding_songs_to_your_database#creating-a-new-song "Adding songs to your database")
 added to a song which allows Mobile Lyrics to be used as a stage screen.
-If you have a [stored translation to a song](Translations.md "Translations")
+If you have a [stored translation to a song](Translations "Translations")
 you could also select to view that instead of the default lyrics. Mobile
 Lyrics could also be used as a way to give live interpretation or write
 instant messages to users that is not visible on the projection with
-[Live Text](Live_Text.md "Live Text").
+[Live Text](Live_Text "Live Text").
 
 -----
 
 
 
-[← Translations](Translations.md "Translations") &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[Mobile Remote →](Mobile_Remote.md "Mobile Remote")
+[← Translations](Translations "Translations") &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[Mobile Remote →](Mobile_Remote "Mobile Remote")
 
 ---

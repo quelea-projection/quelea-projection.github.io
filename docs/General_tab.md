@@ -8,13 +8,13 @@ Swedish, Hungarian, Norwegian, Dutch, Lithuanian, Portuguese, Slovenian,
 Spanish, Swahili, Bulgarian and French. More translations are greatly
 appreciated, so if you know another language that you would like to
 translate to, read more here [FAQ (Frequently Asked
-Questions)](FAQ_\(Frequently_Asked_Questions\).md "FAQ (Frequently Asked Questions)")
+Questions)](FAQ_\(Frequently_Asked_Questions\) "FAQ (Frequently Asked Questions)")
 
 ## Check for update on startup
 
 Does what it says: checks if there is any later release of Quelea if you
 are connected to the Internet. However, this does not apply to so called
-nightly builds (see question in [FAQ (Frequently Asked Questions)](FAQ_\(Frequently_Asked_Questions\).md "FAQ (Frequently Asked Questions)")).
+nightly builds (see question in [FAQ (Frequently Asked Questions)](FAQ_\(Frequently_Asked_Questions\) "FAQ (Frequently Asked Questions)")).
 
 ## Warn if only one monitor is connected
 
@@ -56,14 +56,14 @@ other way.)
 The Video Library Tab will appear next to the tabs for songs, bibles,
 images and timers. You can then add videos to your schedule the same way
 you [add an
-image](Adding_items_to_Order_of_Service.md#adding-an-image "Adding items to Order of Service").
+image](Adding_items_to_Order_of_Service#adding-an-image "Adding items to Order of Service").
 This option is known to make the start-up time longer on some system.
 
 ## Attempt to auto-translate songs
 
 If you are connected to the Internet, this will attempt to automatically
 translate a song to the [language you
-enter](Translations.md#add-a-translation "Translations"). Remember that an
+enter](Translations#add-a-translation "Translations"). Remember that an
 automatic translation seldom is perfect, and this is suggested to be
 used only as a way to get the basic understanding of the song if you
 have parts of the congregation that do not understand the language of
@@ -153,8 +153,8 @@ font size.
 
 
 [← Chapter index - Setting up Quelea for your
-needs](Setting_up_Quelea_for_your_needs.md "Setting up Quelea for your needs")
+needs](Setting_up_Quelea_for_your_needs "Setting up Quelea for your needs")
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Display tab
-→](Display_tab.md "Display tab")
+→](Display_tab "Display tab")
 
 ---

@@ -18,7 +18,7 @@ star button in the upper right corner.
 First, you are asked to enter the name of the language to which you
 would like to add a translation. If this is spelled correctly and the
 setting [Attempt to auto-translate
-songs](General_tab.md#attempt-to-auto-translate-songs "General tab") is
+songs](General_tab#attempt-to-auto-translate-songs "General tab") is
 checked, an automatic translation will be added to your song that you
 later can edit. (There are no guarantees that the automatic translation
 will be entirely accurate, so you are advised to always check the
@@ -56,12 +56,12 @@ selected by the text within the parenthesis.
 
 ![](Quelea_manual-e-048.png)
 
-When you [display the song live](Showing_something_live.md "Showing something live"),
+When you [display the song live](Showing_something_live "Showing something live"),
 every other line will be the translated version. By default, the
 translation will be smaller and italic, but the font appearance can be
 changed within the [theme
-settings](Themes.md#setting-up-a-theme "Themes"). With [Mobile
-Lyrics](Mobile_Lyrics.md "Mobile Lyrics") each user can select to view its own
+settings](Themes#setting-up-a-theme "Themes"). With [Mobile
+Lyrics](Mobile_Lyrics "Mobile Lyrics") each user can select to view its own
 language.
 
 ![](Quelea_manual-e-049.jpg)
@@ -70,8 +70,8 @@ language.
 
 
 
-[← Spelling check](Spelling_check.md "Spelling check")
+[← Spelling check](Spelling_check "Spelling check")
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Mobile Lyrics
-→](Mobile_Lyrics.md "Mobile Lyrics")
+→](Mobile_Lyrics "Mobile Lyrics")
 
 ---

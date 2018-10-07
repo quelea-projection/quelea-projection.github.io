@@ -1,7 +1,7 @@
 We have already covered most of the settings here in previous chapters
-([Selecting output](Setting_up_a_projector.md#selecting-output "Setting up a projector")
+([Selecting output](Setting_up_a_projector#selecting-output "Setting up a projector")
 and [Setting up Stage
-View](Stage_View.md#setting-up-stage-view "Stage View")), so this part will
+View](Stage_View#setting-up-stage-view "Stage View")), so this part will
 only cover the remaining: Custom Position. In case your computer is not
 connected to another screen, but you would still like to preview the
 output, you could imitate a separate screen by creating a custom
@@ -32,7 +32,7 @@ so feel free to put in any values if you want to use it.
 
 
 
-[← General tab](General_tab.md "General tab") &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[Stage View tab →](Stage_View_tab.md "Stage View tab")
+[← General tab](General_tab "General tab") &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[Stage View tab →](Stage_View_tab "Stage View tab")
 
 ---

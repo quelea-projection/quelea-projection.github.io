@@ -17,7 +17,7 @@ remember to write a hash symbol (\#) where you would like the timer to
 be visible. An example is “Service begins in \#”, where the hash
 automatically will be replaced with your timer. You could also set up a
 separate theme for the timer (see [Setting up a
-theme](Themes.md#setting-up-a-theme "Themes")). Lastly, a timer can then
+theme](Themes#setting-up-a-theme "Themes")). Lastly, a timer can then
 be saved and later be accessed through the Timer tab.
 
 ![](Timer_started.png)
@@ -32,7 +32,7 @@ start.
 
 
 
-[← Recording](Recording.md "Recording") &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Section
-titles →](Section_titles.md "Section titles")
+[← Recording](Recording "Recording") &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Section
+titles →](Section_titles "Section titles")
 
 ---

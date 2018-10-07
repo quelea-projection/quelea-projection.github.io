@@ -22,8 +22,8 @@ elapse between each slide change.
 
 
 
-[← Section titles](Section_titles.md "Section titles")
+[← Section titles](Section_titles "Section titles")
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Displaying a website
-→](Displaying_a_website.md "Displaying a website")
+→](Displaying_a_website "Displaying a website")
 
 ---

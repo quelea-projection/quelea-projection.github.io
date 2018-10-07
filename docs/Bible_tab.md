@@ -43,7 +43,7 @@ screen.
 
 
 
-[← Notices tab](Notices_tab.md "Notices tab") &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[Server Settings tab →](Server_Settings_tab.md "Server Settings tab")
+[← Notices tab](Notices_tab "Notices tab") &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[Server Settings tab →](Server_Settings_tab "Server Settings tab")
 
 ---

@@ -1,11 +1,11 @@
 The settings here have already been discussed in [Stage
-View](Stage_View.md "Stage View")
+View](Stage_View "Stage View")
 
 -----
 
 
 
-[← Display tab](Display_tab.md "Display tab") &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[Notices tab →](Notices_tab.md "Notices tab")
+[← Display tab](Display_tab "Display tab") &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[Notices tab →](Notices_tab "Notices tab")
 
 ---

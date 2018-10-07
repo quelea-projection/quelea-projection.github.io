@@ -17,8 +17,8 @@ option will be disabled.
 
 
 
-[← Server Settings tab](Server_Settings_tab.md "Server Settings tab")
+[← Server Settings tab](Server_Settings_tab "Server Settings tab")
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Import/Export
-→](Import_Export.md "Import/Export")
+→](Import_Export "Import/Export")
 
 ---

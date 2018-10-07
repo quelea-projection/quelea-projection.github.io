@@ -24,7 +24,7 @@ chorus and ‘2’ for the second verse.
 
 
 
-[← Timer](Timer.md "Timer") &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Displaying a
-PDF →](Displaying_a_PDF.md "Displaying a PDF")
+[← Timer](Timer "Timer") &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Displaying a
+PDF →](Displaying_a_PDF "Displaying a PDF")
 
 ---
