@@ -94,7 +94,7 @@
    8. [Recordings tab](Recordings_tab.md "Recordings tab")
       1. [Path for recordings](Recordings_tab.md#path-for-recordings "Recordings tab")
       2. [Automatically convert recordings to MP3 files (requires VLC)](Recordings_tab.md#automatically-convert-recordings-to-MP3-files-\(requires-vlc\) "Recordings tab")
-   9. [Import/Export tab](Import/Export.md "Import/Export tab")
+   9. [Import/Export tab](Import_Export.md "Import/Export tab")
    10. [Advanced settings](Advanced_settings.md "Advanced settings")
       1. [VLCARG](Advanced_settings.md#vlcarg "Advanced settings")
       2. [Fade in/out adjustments](Advanced_settings.md#fade-in/out-adjustments "Advanced settings")
