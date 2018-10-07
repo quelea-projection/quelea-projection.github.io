@@ -3,6 +3,8 @@ title: Live Text
 permalink: /Live_Text/
 ---
 
+# Live text
+
 Live Text is a feature to use with [Mobile Lyrics](/Mobile_Lyrics "wikilink") to send text to the users while you write. This could for instance be used for texted interpretation, to summarize a sermon for someone with trouble hearing or as a way to send messages to the worship team if they are the only ones using it.
 
 Start by making sure that the Mobile Lyrics server [is activated](/Mobile_Lyrics#Activating_Mobile_Lyrics "wikilink") and then select Live Text under Tools, or use the keyboard shortcut ctrl + shift + L.
