@@ -3,6 +3,8 @@ title: Developers
 permalink: /Developers/
 ---
 
+# Information for developers
+
 Are you a developer that fancies contributing to the Quelea project? Great! This guide is not extensive, nor thorough, but should act as a good starting point. If you have any further questions then please head over to the [Quelea discussion group](https://groups.google.com/forum/#!forum/quelea-discuss).
 
 Brief summary
