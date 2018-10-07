@@ -1,4 +1,4 @@
-# *Welcome to the Quelea Wiki!*
+Not sure where to look first? See [here](https://quelea.org/wiki/index.php/Short_introduction_to_Quelea). Notice a mistake, or want to contribute to these docs? [Feel free to open a PR.](https://github.com/quelea-projection/quelea-projection.github.io/tree/master/docs)
 
 ## Index
 
