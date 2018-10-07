@@ -3,6 +3,8 @@ title: Troubleshooting
 permalink: /Troubleshooting/
 ---
 
+# Troubleshooting
+
 If you cannot find the answer to the problem you are looking for here, search for your issue in the [discussion group](https://groups.google.com/forum/#!forum/quelea-discuss). If you cannot find any information about your issues there already, feel free to ask a new question.
 
 The video background flickers as it repeats
