@@ -3,6 +3,8 @@ title: General tab
 permalink: /General_tab/
 ---
 
+# General tab
+
 User Options
 ============
 
