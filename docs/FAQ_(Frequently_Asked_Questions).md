@@ -29,17 +29,7 @@ really need a better estimate, ask on the mailing list.
 
 ## Will you add (x) feature?
 
-There are many planned features on the to-do list, but feel free to let
-the developers know what features you miss, since features are added by
-popular demand. Visit the page <https://quelea.org/feedback/> to see
-planned features and vote for the features you want to see or discuss
-them in the discussion forum. Some of the planed features include:
-
-  - Theme improvements
-  - Initial install wizard
-  - Show first line of next slide on stage view
-  - Transition between slides
-  - The option to store notices
+Maybe! Feel free to [create an issue](https://github.com/quelea-projection/Quelea/issues), and we'll evaluate whether it's something that we can reasonably add.
 
 ## How do I report a bug/error?
 
@@ -53,6 +43,8 @@ on. Next, go to the discussion group
 anyone else already has reported the same thing. Lastly, if you cannot
 find a thread containing your question, start a new question, describe
 the problem and attach the debug log.
+
+Alternatively, [create an issue](https://github.com/quelea-projection/Quelea/issues) directly and we'll take a look (you're much less likely to get potential feedback and help from other users though if you post it as an issue, so we'd advise doing that only if you're sure it's a bug.)
 
 ## If I donate money, will Quelea be developed faster?
 
