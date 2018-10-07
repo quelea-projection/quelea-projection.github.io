@@ -3,6 +3,8 @@ title: Notices
 permalink: /Notices/
 ---
 
+# Notices
+
 Notices is a feature to quickly display messages above other items. You find where to add new ones by clicking the triangular alert button.
 
 [<File:Quelea> manual-e-060.png](/File:Quelea_manual-e-060.png "wikilink")
