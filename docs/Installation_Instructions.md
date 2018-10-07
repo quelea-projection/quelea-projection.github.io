@@ -31,8 +31,7 @@ machine, since the JRE bundled with Quelea is also 32 bit.
 
 ## Linux Install
 
-Quelea 2015.1 for Linux needs Oracle Java 8. For unknown reasons,
-OpenJDK 8 does not work.
+Quelea for Linux needs Oracle Java 8. (OpenJDK8 can also be used, but only if OpenJFX8 is also installed.)
 
 Here's how to install Oracle Java 8 for Ubuntu/Linux Mint systems
 (tested on Mint 17.1 64 bit):
