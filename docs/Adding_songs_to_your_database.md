@@ -3,6 +3,8 @@ title: Adding songs to your database
 permalink: /Adding_songs_to_your_database/
 ---
 
+# Adding songs to your database
+
 Creating a new song
 -------------------
 
