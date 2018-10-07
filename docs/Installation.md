@@ -1,21 +1,17 @@
----
-title: Installation
-permalink: /Installation/
----
+(Need to expand on this page somewhat\!)
 
-(Need to expand on this page somewhat!)
-
-Windows
--------
+## Windows
 
 Run the exe, Java not required - Java 8 is bundled with the install
 
-Linux
------
+## Linux
 
-Edit the above with different flavours - deb file for debian based installs.
+Edit the above with different flavours - deb file for debian based
+installs.
 
-Mac
+## Mac
+
+Cross platform only at this point. Hopefully making a Mac specific
+installer in future\!---
+
 ---
-
-Cross platform only at this point. Hopefully making a Mac specific installer in future!
