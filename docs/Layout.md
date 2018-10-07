@@ -3,6 +3,8 @@ title: Layout
 permalink: /Layout/
 ---
 
+# Layout
+
 One might say Quelea is divided into three sections: [Schedule and Database](/#Schedule_and_Database "wikilink"), [Preview](/#Preview "wikilink") and [Live](/#Live "wikilink").
 
 Schedule and Database
