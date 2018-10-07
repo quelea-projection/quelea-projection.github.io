@@ -6,7 +6,7 @@ permalink: /Displaying_a_website/
 # Displaying a website
 
 Usage
-=====
+-----
 
 Another feature that makes Quelea rather unique is the ability to project a website. Just select “Add website” in either the add menu (plus sign) or in the Schedule menu.
 
@@ -29,7 +29,7 @@ Click directly on the preview image to pass a click onto the website and use the
 [<File:Web> navigation.png](/File:Web_navigation.png "wikilink")
 
 Limitations
-===========
+-----------
 
 This section is further information about the feature, explaining why it might not always work the way you expect it to.
 
