@@ -3,6 +3,8 @@ title: Debug log
 permalink: /Debug_log/
 ---
 
+# Locating the debug log
+
 You've probably been sent here because you've been asked to locate your debug log, probably to send to the developers so they can (hopefully!) work out what's causing a problem that you're having.
 
 The file name is **quelea-debuglog.txt**. Note that when sending the debug log, it's important to start Quelea, reproduce the problem that you're having, close Quelea and *then* locate and send the debug log - it gets refreshed each time you launch Quelea, so if you launch it, don't reproduce the problem then send us the log, we won't be able to tell much!
