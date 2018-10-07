@@ -3,6 +3,8 @@ title: Mobile Remote
 permalink: /Mobile_Remote/
 ---
 
+# Mobile remote
+
 Mobile Remote allows you, via a web browser, to control Quelea on any device connected to the same network as Quelea. This means that Quelea could be operated e.g. from stage, even if the computer with Quelea is located elsewhere. This is achieved either through a web browser or one of the Android applications [Quelea Mobile Remote](https://play.google.com/store/apps/details?id=org.quelea.mobileremote) or [Quelea Stage Mode](https://play.google.com/store/apps/details?id=org.quelea.stagemode) available in the Google Play Store.
 
 Activating Mobile Remote
