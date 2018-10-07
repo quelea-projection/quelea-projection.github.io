@@ -2,7 +2,6 @@ Not sure where to look first? See [here](https://quelea.org/wiki/index.php/Short
 
 ## Index
 
-* [License agreements](License_agreements "License agreements")
 1. [Installation Instructions](Installation_Instructions "Installation Instructions")
 2. [Short introduction to Quelea](Short_introduction_to_Quelea "Short introduction to Quelea")
    1. [Layout](Layout "Layout")
