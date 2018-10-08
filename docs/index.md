@@ -47,7 +47,7 @@ Not sure where to look first? See [here](https://quelea.org/wiki/index.php/Short
    10. [Bible Browser](Bible_Browser "Bible Browser")
    11. [Saving and sharing schedules](Saving_and_sharing_schedules "Saving and sharing schedules")
    12. [Exporting or printing a song](Exporting_or_printing_a_song "Exporting or printing a song")
-   13. [Recording (experimental)](Recording_\(experimental\) "Recording")
+   13. [Recording (experimental)](Recording_(experimental) "Recording")
    14. [Timer](Timer "Timer")
    15. [Section titles](Section_titles "Section titles")
    16. [Displaying a PDF](Displaying_a_PDF "Displaying a PDF")
