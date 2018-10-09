@@ -11,11 +11,13 @@ of the installed bibles. This will later be the default option when you
 add a new Bible passage (you might need to restart Quelea for the
 changes to take effect).
 
-If you want to add a Bible, click the “Add bible...” button. This allows
-you to browse to a downloaded Bible of type XML or XMM. If you wish to
+If you want to add a Bible, click the “Add bible...” button. 
+
+This allows you to browse to a downloaded Bible of type XML or XMM. If you wish to
 download a Bible, you find XMM bibles in 20 languages here:
-<http://www.opensong.org/pages/downloads.html> and XML bibles in 54
-languages here:
+<http://www.opensong.org/pages/downloads.html> 
+
+And XML bibles in 54 languages here:
 <http://sourceforge.net/projects/zefania-sharp/files/Bibles/>
 
 Of course; after you have added a Bible, it can also be used as the
