@@ -57,10 +57,8 @@ six months.
 them, see [FAQ (Frequently Asked
 Questions)](FAQ_\(Frequently_Asked_Questions\) "Frequently Asked Questions").
 
-* The discussion group is available for all your questions, bug
-reporting and opinions about Quelea.
-<https://groups.google.com/forum/#!forum/quelea-discuss/> If you want to
-suggest a new feature, go to <https://quelea.org/feedback/>
+* The discussion group is available for all your questions and opinions about Quelea.
+<https://quelea.discourse.group/> If you want to suggest a new feature or report a bug, go to <https://github.com/quelea-projection/Quelea/issues>
 
 ## Specific Hacks
 
