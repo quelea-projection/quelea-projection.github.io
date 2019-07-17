@@ -9,7 +9,7 @@ the database.
 After clicking the button you will see the following dialog where you
 can add the name of the song and the author, along with the lyrics. You
 might also add chords that you later can use with [Stage
-View](Stage_View "Stage View"). It is also possible to transpose the
+View](Stage_View "Stage View"). Just write the chords above the lyrics and they will automatically be recognized as such and hidden from the main view but visible on the Stage View when you go live with the item. It is also possible to transpose the
 chords by clicking the button with the two notes. If you assign labels
 to the sections, by using the buttons with a letter on them or by
 writing, you will later be able to use keyboard navigation to navigate
