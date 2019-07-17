@@ -1,5 +1,5 @@
 If you have a question that is not answered below, search for your
-question here: <https://groups.google.com/forum/#!forum/quelea-discuss>.
+question here: <https://quelea.discourse.group/>.
 If you cannot find any information about your question there already,
 feel free to ask a new question.
 
@@ -39,7 +39,7 @@ there you will find a link to the debug log. If you click it, the debug
 log will open in your default text editor. Save a copy of the file
 somewhere you know where it is so that you easily can attach it later
 on. Next, go to the discussion group
-(https://groups.google.com/forum/\#\!forum/quelea-discuss) and see if
+(https://quelea.discourse.group/) and see if
 anyone else already has reported the same thing. Lastly, if you cannot
 find a thread containing your question, start a new question, describe
 the problem and attach the debug log.
