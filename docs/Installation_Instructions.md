@@ -21,8 +21,8 @@ should be fine.
 ## Windows Install
 
 The .exe file provided on the downloads file should work with most
-computers, if you have any problems post on the Quelea Discuss Google
-Groups found
+computers, if you have any problems post on the Quelea Discourse Discuss
+Group found
 [here](https://quelea.discourse.group/).
 
 For videos to work, you must have the latest version of VLC installed as
