@@ -1,6 +1,6 @@
 If you cannot find the answer to the problem you are looking for here,
 search for your issue in the discussion group:
-<https://groups.google.com/forum/#!forum/quelea-discuss>. If you cannot
+<https://quelea.discourse.group>. If you cannot
 find any information about your issues there already, feel free to ask a
 new question.
 
@@ -74,12 +74,7 @@ the same way as above. 
 
 ## I cannot play YouTube videos
 
-Due to video encryption that seems to be added to more and more YouTube
-videos today, YouTube support has been removed by default in Quelea
-2017.0. A possible work-around would be to use one of the many services
-that offers you to download YouTube videos and then add it to the
-schedule as a regular video. If you really need this feature, contact
-the developers in the discussion forum on how to re-enable it.
+Due to video encryption that seems to be added to more and more YouTube videos today, YouTube support has been removed by default in Quelea 2017.0. An option would be to play the videos using the [website feature](Displaying_a_website "Displaying a website") (tip: use the "Embed" link). Another possible work-around would be to use one of the many services that offers you to download YouTube videos and then add it to the schedule as a regular video. If you really need this feature and are aware of the fact that most videos will not work, contact the developers in the discussion forum on how to re-enable it.
 
 -----
 
