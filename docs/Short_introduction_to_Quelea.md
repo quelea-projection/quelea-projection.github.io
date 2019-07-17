@@ -10,7 +10,7 @@ then walk through the basic features. You will notice that Quelea is
 very intuitive and that there are instructions embedded to the software
 to make it easy for anyone to use it. If you have any questions, do not
 hesitate to ask them in the official Quelea discussion forum:
-<https://groups.google.com/forum/#!forum/quelea-discuss>
+<https://quelea.discourse.group/>
 
 1. [Layout](Layout "Layout")
    1. [Schedule and Database](Layout#schedule-and-database "Layout")
