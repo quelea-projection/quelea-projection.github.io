@@ -32,7 +32,7 @@ selected, but you are free to select whichever translation you prefer.
 how you can add Bible translations at [Default Bible and add a
 Bible](Bible_tab#default-bible-and-add-a-bible "Bible tab").)
 
-![](Quelea_manual-e-017.png)
+![](Bibles-ASV.png)
 
 Next, you select your desired book by scrolling through them or by
 writing the first letters of the book. Note that the letters you write
