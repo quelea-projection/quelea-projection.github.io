@@ -1,7 +1,5 @@
 # License agreements
 
-<translate>
-
 ## The software
 
 Quelea is free software: you can redistribute it and/or modify it under
@@ -28,12 +26,6 @@ We are always looking for translators for this document and the
 software.
 
 -----
-
-<div style="text-align: right;">
-
-[Chapter 1 - Short introduction to Quelea
-\>](Short_introduction_to_Quelea "Short introduction to Quelea")
-
-</div>
+[Chapter 1 - Short introduction to Quelea →](Short_introduction_to_Quelea "Short introduction to Quelea")
 
 ---
