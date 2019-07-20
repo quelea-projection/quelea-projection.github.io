@@ -42,8 +42,8 @@ item in the schedule (both with songs or Bible passages) or with a song
 in the song database. One thing to notice here is that the individual
 theme will override the default theme, but any other global theme (added
 by you or there by default) will override the individual settings you
-have made. (This is being discussed at the moment and will probably be
-an optional feature in the future.)
+have made. This is an optional feature that can be changed 
+[in the options panel](General_tab#allow-custom-item-theme-to-overwrite-global-theme "General tab").
 
 ## Setting up a theme
 

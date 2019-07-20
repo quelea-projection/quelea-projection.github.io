@@ -12,6 +12,10 @@ appreciated, so if you know another language that you would like to
 translate to, read more here [FAQ (Frequently Asked
 Questions)](FAQ_\(Frequently_Asked_Questions\) "FAQ (Frequently Asked Questions)")
 
+### Application theme
+
+Allows you to set a darker color theme for the application or use the default color theme. 
+
 ### Check for update on startup
 
 Does what it says: checks if there is any later release of Quelea if you
@@ -31,6 +35,14 @@ unplugged or has a glitch.
 With long Bible passages or songs with many verses, you might want to
 prefer to only preview the first line of each slide to easier see all
 the remaining slides.
+
+### Database song preview
+
+Allows you to choose how you preview the items you click in the song 
+database: As a small preview window in the song list, in the main preview
+panel or not at all. Even if you select "None", you can still choose to preview
+individual songs in the preview panel by holding _ctrl_ and clicking the item or 
+by dragging the song to the preview panel canvas.  
 
 ### Autoplay videos in live panel
 
@@ -96,6 +108,11 @@ want to make sure everything is available the next time the schedule is
 opened, but in case you have large files in your schedule this can make
 it hard (or even impossible) to email it to another user.
 
+### Allow custom item theme to overwrite global theme
+
+Changes the behaviour of the global theme. If disabled, the global theme 
+will override any individual themes that have been set to an item.
+
 ### Show small song information
 
 Displays the name of the song in the lower/upper right or left corner.
@@ -112,6 +129,13 @@ that it can take up if you feel that the text is too small.
 
 If you feel that the thumbnail size of the preview slides for
 presentations, PDF files or images is too small, you can change it here.
+
+### Show extra live panel toolbar options
+
+Shows an extra 'x' button in the live panel, next to the 
+[clear-screen button](Layout#clear-screen "Clear screen"), 
+that allows you to completely hide the projecion output, e.g. if you
+ want to show something from another software.
 
 ## Text Options
 
