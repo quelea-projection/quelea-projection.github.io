@@ -1,3 +1,5 @@
+# Notices
+
 Notices is a feature to quickly display messages above other items. You
 find where to add new ones by clicking the triangular alert button.
 

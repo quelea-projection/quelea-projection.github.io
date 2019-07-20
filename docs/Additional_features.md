@@ -1,3 +1,5 @@
+# Additional features
+
 Quelea has a lot of features that might be useful for many users. Some
 of these features are unique to Quelea, others are found in similar
 software too. New features are regularly added based on user requests.

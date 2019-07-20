@@ -1,3 +1,5 @@
+# Spelling check
+
 If you misspell a word, Quelea will automatically find it as long as you
 have selected the right language for the song. If a spelling error is
 found, a yellow triangle will appear in the upper right corner, telling

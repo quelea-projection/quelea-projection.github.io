@@ -1,4 +1,6 @@
-# Usage
+# Displaying a website
+
+## Usage
 
 Another feature that makes Quelea rather unique is the ability to
 project a website. Just select “Add website” in either the add menu
@@ -28,7 +30,7 @@ in/out.
 
 ![](Web_navigation.png)
 
-# Limitations
+## Limitations
 
 This section is further information about the feature, explaining why it
 might not always work the way you expect it to.

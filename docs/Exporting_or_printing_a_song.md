@@ -1,3 +1,5 @@
+# Exporting or printing a song
+
 In Quelea you can print an individual song or export one to a PDF.
 Right-click the desired song in the database (not in the schedule) and
 then select either “Export to PDF” or “Print song”. Quelea will then ask

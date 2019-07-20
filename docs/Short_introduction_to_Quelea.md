@@ -1,3 +1,5 @@
+# Short introduction to Quelea
+
 Quelea is a competent cross platform church software developed to bring
 the best features from similar software, spiced with unique features, to
 every church for free. The founders have developed this software

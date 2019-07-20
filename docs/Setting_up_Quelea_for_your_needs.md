@@ -1,3 +1,5 @@
+# Setting up Quelea for your needs
+
 In this chapter we will walk through the settings in Quelea, to see what
 they mean and how you can use them. You access the settings through
 Tools and Options (or Ctrl/⌘ + T).

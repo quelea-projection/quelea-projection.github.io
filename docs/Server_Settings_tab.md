@@ -1,3 +1,5 @@
+# Server settings tab
+
 The server settings have already been discussed in [Mobile
 Lyrics](Mobile_Lyrics "Mobile Lyrics") and [Mobile
 Remote](Mobile_Remote "Mobile Remote").

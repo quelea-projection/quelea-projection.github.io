@@ -1,3 +1,5 @@
+# Stage view tab
+
 The settings here have already been discussed in [Stage
 View](Stage_View "Stage View")
 

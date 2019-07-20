@@ -1,3 +1,5 @@
+# Information for developers
+
 Are you a developer that fancies contributing to the Quelea project?
 Great\! This guide is not extensive, nor thorough, but should act as a
 good starting point. If you have any further questions then please head
@@ -43,13 +45,6 @@ requests first.
 
 ## This all sounds a bit draconian
 
-Please don't take all the above as our attempt to discourage
-contributions. As much as we'd love to accept anyone's patches from
-anywhere, this just isn't practical. In fact, some years ago we accepted
-a couple of patches with minimal checking, but it caused all sorts of
-issues and took us months to properly rectify. We feel it's much better
-to lay down the rules / expectations first, so that people aren't
-disappointed later if their patches aren't accepted (or we request
-further work before they are.)---
+Please don't take all the above as our attempt to discourage contributions. As much as we'd love to accept anyone's patches from anywhere, this just isn't practical. In fact, some years ago we accepted a couple of patches with minimal checking, but it caused all sorts of issues and took us months to properly rectify. We feel it's much better to lay down the rules / expectations first, so that people aren't disappointed later if their patches aren't accepted (or we request further work before they are.)
 
 ---

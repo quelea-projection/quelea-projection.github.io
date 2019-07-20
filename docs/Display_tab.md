@@ -1,3 +1,5 @@
+# Display tab
+
 We have already covered most of the settings here in previous chapters
 ([Selecting output](Setting_up_a_projector#selecting-output "Setting up a projector")
 and [Setting up Stage

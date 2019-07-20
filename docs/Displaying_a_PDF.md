@@ -1,3 +1,5 @@
+# Displaying a PDF
+
 In Quelea, you can import a PDF file and display it in a similar way as
 a presentation. You could for instance export your presentation to PDF
 to make sure nothing changes in the layout, instead of relying on the

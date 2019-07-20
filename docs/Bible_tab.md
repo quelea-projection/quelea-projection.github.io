@@ -1,3 +1,5 @@
+# Bible search
+
 The Bible tab lets you select a default Bible, add a Bible, select
 whether or not verse numbers should be displayed in bible passages and
 adjust the layout of a Bible passage.

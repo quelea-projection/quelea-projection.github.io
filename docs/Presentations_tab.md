@@ -1,3 +1,5 @@
+# Presentations tab
+
 ## Use OpenOffice for presentations (experimental)
 
 Requires a separate installation of OpenOffice or LibreOffice and allows

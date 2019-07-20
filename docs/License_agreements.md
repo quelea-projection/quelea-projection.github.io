@@ -1,3 +1,5 @@
+# License agreements
+
 <translate>
 
 ## The software
@@ -23,7 +25,7 @@ license. This license includes all content on at
 <http://quelea.org/wiki/>
 
 We are always looking for translators for this document and the
-software. </translate>
+software.
 
 -----
 
@@ -32,6 +34,6 @@ software. </translate>
 [Chapter 1 - Short introduction to Quelea
 \>](Short_introduction_to_Quelea "Short introduction to Quelea")
 
-</div>---
+</div>
 
 ---

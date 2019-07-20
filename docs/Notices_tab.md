@@ -1,3 +1,5 @@
+# Notices tab
+
 This tab lets you choose your own settings for the notices. You can
 change placement on screen, background colour, the notice speed and the
 font size. Below you see the standard settings. If you wish to change

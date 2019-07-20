@@ -1,3 +1,5 @@
+# Live text
+
 Live Text is a feature to use with [Mobile
 Lyrics](Mobile_Lyrics "Mobile Lyrics") to send text to the users while you
 write. This could for instance be used for texted interpretation, to
@@ -6,8 +8,7 @@ messages to the worship team if they are the only ones using it.
 
 Start by making sure that the Mobile Lyrics server [is
 activated](Mobile_Lyrics#activating-mobile-lyrics "Mobile Lyrics") and then
-select Live Text under Tools, or use the keyboard shortcut ctrl + shift
-+ L.
+select Live Text under Tools, or use the keyboard shortcut ctrl + shift + L.
 
 ![](Live_text_input.png)
 

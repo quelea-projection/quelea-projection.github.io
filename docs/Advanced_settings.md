@@ -1,3 +1,5 @@
+# Advanced settings
+
 Quelea holds a few additional settings that on one hand require a bit
 more work from the user to set up, but on the other hand allows you to
 fine-tune Quelea for your needs. In the Exodus version there are two of

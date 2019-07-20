@@ -1,3 +1,5 @@
+# Mobile remote
+
 Mobile Remote allows you, via a web browser, to control Quelea on any
 device connected to the same network as Quelea. This means that Quelea
 could be operated e.g. from stage, even if the computer with Quelea is

@@ -1,3 +1,5 @@
+# Setting up a projector
+
 ## Selecting output
 
 For Quelea to know where you would like to display the output, you must

@@ -1,3 +1,5 @@
+# Installation instructions
+
 ## System requirements
 
 Quelea should run on Windows, Linux or MacOS. The developers all use
@@ -80,9 +82,6 @@ There are 3 choices for the alternative java (providing
 
 Press enter to keep the current choice [*], or type selection number:
 
-Choose the number that refers to the Oracle Java. The "*" indicates the
-current default.
-
----
+Choose the number that refers to the Oracle Java. The "\*" indicates the current default.
 
 ---

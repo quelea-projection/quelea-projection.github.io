@@ -1,3 +1,5 @@
+# Recording
+
 A new feature since Quelea 2016.0 is recording ability. This can for
 instance be used to record sermons or entire services. To use the
 recording feature, you first need to set up the recording location.

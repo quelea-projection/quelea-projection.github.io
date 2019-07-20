@@ -1,3 +1,5 @@
+# Translations
+
 Since Quelea 2014 Exodus it is possible to use translations of songs.
 You can store many translations to a song, but at the moment only
 display one at the time.

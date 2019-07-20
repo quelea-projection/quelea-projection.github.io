@@ -1,3 +1,5 @@
+# Bible search
+
 In case you do not know where the Bible passage you want to use is, you
 can use the Bible searcher. You find it under Tools and “Search
 bibles...”

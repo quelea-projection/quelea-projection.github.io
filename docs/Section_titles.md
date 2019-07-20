@@ -1,3 +1,5 @@
+# Sections titles
+
 In all songs you can add a title to each section of the lyrics. Just
 click the buttons to insert a title or write the title above the section
 and it will turn blue if it is recognized as a title. The available

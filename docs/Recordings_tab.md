@@ -1,3 +1,5 @@
+# Recordings tab
+
 ## Path for recordings
 
 Set the path where you want audio recordings to be stored.

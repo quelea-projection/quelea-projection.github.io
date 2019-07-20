@@ -1,3 +1,5 @@
+# Mobile lyrics
+
 Mobile Lyrics is one of those features that make Quelea rather unique.
 It that allows you to view what is being displayed live via any web
 browser, as long as it is connected to the same network as Quelea. This

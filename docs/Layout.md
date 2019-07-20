@@ -1,3 +1,5 @@
+# Layout
+
 One might say Quelea is divided into three sections: [Schedule and
 Database](#schedule-and-database "Schedule and Database"),
 [Preview](#preview "Preview") and [Live](#live "Live").

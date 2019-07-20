@@ -1,3 +1,5 @@
+# Android applications privacy policy
+
 ## Introduction
 
 This Privacy Policy defines how the Android mobile applications Quelea
@@ -57,8 +59,6 @@ have been made since this page was created.
 
 ## Contact
 
-Feel free to contact us about our Privacy Policy by sending an email to
-arvid (at) quelea.org and we are happy to answer any questions you might
-have.---
+Feel free to contact us about our Privacy Policy by sending an email to arvid (at) quelea.org and we are happy to answer any questions you might have.
 
 ---

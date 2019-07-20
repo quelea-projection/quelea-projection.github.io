@@ -1,3 +1,5 @@
+# Minister response hack
+
 ## Create a new song with the lyrics or liturgy you wish to use.
 
 ![](Quelea_Repsonse_Hack1.png)

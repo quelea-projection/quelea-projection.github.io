@@ -1,3 +1,5 @@
+# Displaying an image group
+
 Sometimes you might want to display a group of images rather than one at
 the time and to do that you simply select “Add Images” in the add menu
 (plus sign) or under the Schedule menu. You can then browse to the

@@ -1,3 +1,5 @@
+# Shortcuts and other things that are good to know
+
 This chapter will cover parts that are not covered by the previous
 chapters.
 

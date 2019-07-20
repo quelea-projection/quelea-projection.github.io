@@ -1,3 +1,5 @@
+# Timer
+
 If you want a countdown timer to display, for instance with minutes
 until the service will start, you can select “Add countdown timer” under
 the add menu at the top of Quelea.

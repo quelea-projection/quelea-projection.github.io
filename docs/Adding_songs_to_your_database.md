@@ -1,3 +1,5 @@
+# Adding songs to your database
+
 ## Creating a new song
 
 The first time you run Quelea your song database will be empty. A

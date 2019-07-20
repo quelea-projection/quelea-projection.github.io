@@ -1,3 +1,5 @@
+# Locating the debug log
+
 You've probably been sent here because you've been asked to locate your
 debug log, probably to send to the developers so they can (hopefully\!)
 work out what's causing a problem that you're having.
@@ -40,6 +42,6 @@ to see the debug log there.
 
 Alternatively, open a terminal prompt and type:
 
-`open ~/.quelea`---
+`open` `~/.quelea`
 
 ---

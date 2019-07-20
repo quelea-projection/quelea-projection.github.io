@@ -1,3 +1,5 @@
+# Bible browser
+
 The bible browser lets you easily browse through entire Bible books. You
 find it under Tools and “View bibles...”
 

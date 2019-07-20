@@ -1,3 +1,5 @@
+# Stage view
+
 If your computer supports several displays and you have the possibility
 to have a monitor on stage, the Stage View feature can allow you to
 display additional information to that screen, apart from what currently

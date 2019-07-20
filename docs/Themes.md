@@ -1,3 +1,5 @@
+# Themes
+
 In Quelea you can assign a certain layout to an entire schedule or
 individual layouts for each item. By default, the layout will be: black
 background and white text that is aligned to the centre of the screen

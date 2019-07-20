@@ -1,3 +1,5 @@
+# Showing something live
+
 Now you should have a Schedule ready to use. Select the item you want to
 display in the Order of Service and either press space bar on your
 keyboard or click “Go Live” in the Preview section. There you navigate
