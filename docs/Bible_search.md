@@ -11,7 +11,7 @@ bibles. You need to write at least four characters for Quelea to start
 searching and in the upper right corner you will see the number of
 results found.
 
-![](Quelea_manual-e-068.png)
+![](Bible-Searcher.png)
 
 By clicking a translation, the book that contains the results will
 appear. In this example, we start by clicking the America Standard

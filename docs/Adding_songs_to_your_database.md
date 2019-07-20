@@ -35,7 +35,7 @@ software among churches, such as EasyWorship, OpenLP, EasySlides and
 many others. Simply click on Database, select Import and click on the
 source of the database you wish to import.
 
-![](Quelea_manual-e-011.png)
+![](Database-Import.png)
 
 For this example we will use an EasySlides XML file, but the steps are
 similar when you import from another source. The only major exception is
@@ -56,8 +56,7 @@ After you have selected the file, the file path will appear. When you
 select “Import”, Quelea will start to read the file to see what songs
 are stored within the file.
 
-![Quelea_manual-e-014.png](Quelea_manual-e-014.png
-"Quelea_manual-e-014.png")
+![](Select-Songs-Checklist.png)
 
 After a while a new dialog will appear, asking you to choose which songs
 to import. If you want to import all, just select “Check/Uncheck all”
