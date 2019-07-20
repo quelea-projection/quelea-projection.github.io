@@ -1,4 +1,4 @@
-Not sure where to look first? See [here](https://quelea.org/wiki/index.php/Short_introduction_to_Quelea). Notice a mistake, or want to contribute to these docs? [Feel free to open a PR.](https://github.com/quelea-projection/quelea-projection.github.io/tree/master/docs)
+Not sure where to look first? See [here](Short_introduction_to_Quelea "Short introduction to Quelea"). Notice a mistake, or want to contribute to these docs? [Feel free to open a PR.](https://github.com/quelea-projection/quelea-projection.github.io/tree/master/docs)
 
 ## Index
 
