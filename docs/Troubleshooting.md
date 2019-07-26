@@ -24,6 +24,8 @@ In newer versions, that option doesn't exist, so you'll need to do this:
 6.  Select _Video_ -&gt; _Output modules_ -&gt; _DirectDraw_
 7.  Uncheck _Overlay video output_
 
+If you still experience issues, try downgrading VLC to [an older version](http://download.videolan.org/pub/videolan/vlc/2.2.0/win64/vlc-2.2.0-win64.exe) and see if that helps.
+
 ## My animations/transitions in a presentation do not appear
 
 Try to use the native [PowerPoint or OpenOffice
