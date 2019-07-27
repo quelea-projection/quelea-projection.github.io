@@ -4,7 +4,7 @@ then select either “Export to PDF” or “Print song”. Quelea will then ask
 you if you also want to export/print the chords and translation(s) if
 there is/are any.
 
-![](Quelea_manual-e-075.png)
+![](Songs-Options.png)
 
 -----
 

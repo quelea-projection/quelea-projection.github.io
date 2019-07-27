@@ -4,7 +4,7 @@ The first time you run Quelea your song database will be empty. A
 message will be visible, showing you were to click to add a new song to
 the database.
 
-![](Quelea_manual-e-009.png)
+![](Select-Songs-Checklist.png)
 
 After clicking the button you will see the following dialog where you
 can add the name of the song and the author, along with the lyrics. You
@@ -62,7 +62,7 @@ After a while a new dialog will appear, asking you to choose which songs
 to import. If you want to import all, just select “Check/Uncheck all”
 and click on “Add”.
 
-![](Quelea_manual-e-015.png)
+![](Song_List.png)
 
 Once Quelea has finished importing the songs they will appear in your
 database and you are now able to [add songs to a
