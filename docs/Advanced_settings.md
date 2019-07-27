@@ -25,7 +25,7 @@ web camera connected to the computer and set the maximum size to
 640x480. Once you are done, hit the "Show more options" checkbox in the
 bottom left:
 
-![](Quelea_manual-e-080.png)
+![](Open_Media-Capture_Device.png)
 
 You will see two text fields at the bottom, "MRL" and "Edit Options".
 Take note of these values. (You may also want to hit "Play" right away

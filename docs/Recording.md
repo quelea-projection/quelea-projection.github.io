@@ -24,10 +24,8 @@ whatever you want to call it.
 
 Simply press the button again to stop recording. The recording will
 automatically be stored in the recordings path and if you have enabled
-[VLC
-converting](Recordings_tab#automatically-convert-recordings-to-MP3-files-(requires-VLC) "Recordings tab"),
-your file will automatically be stored as a MP3 and the default WAV file
-will be deleted.
+VLC converting (see 3.1.7), your file will automatically be stored as a
+MP3 and the default WAV file will be deleted.
 
 -----
 

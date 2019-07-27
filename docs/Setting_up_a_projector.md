@@ -14,7 +14,7 @@ unto you projector rather than extended (see
 user and want an automatization of these steps, you could check out
 [Advanced settings](Advanced_settings "Advanced settings").
 
-![](Quelea_manual-e-007.png)
+![](Options-Display.png)
 
 ## Using Test Patterns to adjust projector settings
 

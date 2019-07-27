@@ -32,7 +32,7 @@ Schedule”. That opens a new email in your system's default email
 software. If you wish to use another email client, you will have to
 attach the file manually.
 
-![](Quelea_manual-e-073.png)
+![](Schedule_EmailSchedule.png)
 
 This is what the email contains. The subject will be “Quelea schedule”.
 
