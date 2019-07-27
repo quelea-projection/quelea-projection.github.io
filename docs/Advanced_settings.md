@@ -82,7 +82,7 @@ use (0.9 corresponds to
 
 ```
 lyric.width.bound=0.9
-.height.bound=0.9
+lyric.height.bound=0.9
 ```
 
 ## Automatically extend projection window to a recently plugged in device
