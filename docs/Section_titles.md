@@ -12,6 +12,9 @@ titles at the moment are:
   - Tag
   - Interlude
   - Ending
+  - Intro
+  - Outro
+  - Coda
 
 ![](Section_title_example.png)
 
@@ -21,6 +24,9 @@ corresponding number of the verse that you want to display, i.e. ‘C’ for
 chorus and ‘2’ for the second verse.
 
 ![](Section_title_live.png)
+
+You can also use these section titles to create a [song sequence](Song_sequences "Song Sequences")
+to avoid having to re-type a section several times.
 
 -----
 

@@ -9,7 +9,7 @@ The changes will be saved once you click OK and will be applied to the
 next notice you add (i.e. any notices already being displayed when you
 change the settings will not be affected).
 
-![](Quelea_manual-e-077.png)
+![](Notices_tab.png)
 
 -----
 

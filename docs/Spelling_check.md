@@ -3,11 +3,11 @@
 If you misspell a word, Quelea will automatically find it as long as you
 have selected the right language for the song. If a spelling error is
 found, a yellow triangle will appear in the upper right corner, telling
-you that there is at least on error in the lyrics. By clicking the “Aa”
+you that there is at least one error in the lyrics. By clicking the “Aa”
 button that looks like a book, or by hitting F7 on your keyboard, you
 can access the spell checker.
 
-![](Quelea_manual-e-040.png)
+![](Spelling_check_warning.png)
 
 Here you can change the misspelled word to one of the suggestions by
 selecting the desired suggestion and then clicking “Correct”, make the
@@ -17,11 +17,9 @@ clicking “Cancel”. Once you have clicked Ignore, Add or Correct, the
 spelling checker will automatically find any other spelling errors for
 you.
 
-![](Quelea_manual-e-041.png)
+![](Spelling_check_dialog.png)
 
 -----
-
-
 
 [← Logo](Logo "Logo") &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Translations
 →](Translations "Translations")

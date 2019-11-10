@@ -43,6 +43,13 @@ submitting good, bug free (as far as is reasonable) code, then we may
 consider it. You'd definitely have to provide us with a few good merge
 requests first.
 
+### Can I create an iPhone version of the Remote Control app?
+
+Sure, none of the core developers use Mac (which is needed to build
+apps for iOS). Head over to [this page](Remote_Control_Information) for
+more information about how the current remotes (web and Android apps)
+interact with Quelea.
+
 ## This all sounds a bit draconian
 
 Please don't take all the above as our attempt to discourage contributions. As much as we'd love to accept anyone's patches from anywhere, this just isn't practical. In fact, some years ago we accepted a couple of patches with minimal checking, but it caused all sorts of issues and took us months to properly rectify. We feel it's much better to lay down the rules / expectations first, so that people aren't disappointed later if their patches aren't accepted (or we request further work before they are.)

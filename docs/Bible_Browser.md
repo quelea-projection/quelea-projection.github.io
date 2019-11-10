@@ -1,13 +1,13 @@
 # Bible browser
 
-The bible browser lets you easily browse through entire Bible books. You
+The Bible Browser lets you easily browse through entire Bible books. You
 find it under Tools and “View bibles...”
 
-![](Quelea_manual-e-070.png)
+![](Bible_browser_dialog.png)
 
 Select the desired translation and book and start reading.
 
-![](Quelea_manual-e-071.png)
+![](Bible_browser_example.png)
 
 -----
 

@@ -13,7 +13,7 @@ at the top of the screen.
 ![](Record_button.png)
 
 The recording button will then be pushed down and the elapsed time and a
-textbox containing the default name will appear.
+text box containing the default name will appear.
 
 ![](Recording_started.png)
 
@@ -24,8 +24,13 @@ whatever you want to call it.
 
 Simply press the button again to stop recording. The recording will
 automatically be stored in the recordings path and if you have enabled
-VLC converting (see 3.1.7), your file will automatically be stored as a
-MP3 and the default WAV file will be deleted.
+[VLC
+converting](Recordings_tab#automatically-convert-recordings-to-MP3-files-(requires-VLC) "Recordings tab"),
+your file will automatically be stored as a MP3 and the default WAV file
+will be deleted.
+
+If you experience issues, read more about what you can try in the 
+[Troubleshooting page](Troubleshooting#recordings-does-not-work)
 
 -----
 

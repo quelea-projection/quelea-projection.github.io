@@ -17,12 +17,12 @@ in the Google Play Store.
 ## Setting up Stage View
 
 First, enter Options that you find under Tools. Go to the tab Display
-and activate the Stage screen. Preferably, you would have three outputs,
-one for each screen, but that depends on your graphics card. If you have
-three outputs, you need to try them to find which screen you want to use
-for what.
+and activate the Stage screen from "None" to the output you want to use.
+Preferably, you would have three outputs, one for each screen, but that 
+depends on your graphics card. If you have three outputs, you might need to 
+try them to find which screen you want to use for what.
 
-![](Quelea_manual-e-064.png)
+![](Display_tab.png)
 
 Secondly, go to the tab Stage View. Here you can set up whether or not
 to use chords, how the text will align, font and colours for background,
@@ -31,12 +31,12 @@ change if you want a 24 hour clock or not. You can also select whether
 or not the Stage View should be cleared when the Main Display is
 cleared.
 
-![](Quelea_manual-e-065.png)
+![](Stage_view_tab.png)
 
 This is an example of what the stage monitor will display if no settings
 are changed.
 
-![](Quelea_manual-e-066.png)
+![](Stage_view_example.png)
 
 -----
 

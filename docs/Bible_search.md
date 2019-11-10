@@ -4,7 +4,7 @@ In case you do not know where the Bible passage you want to use is, you
 can use the Bible searcher. You find it under Tools and “Search
 bibles...”
 
-![](Quelea_manual-e-067.png)
+![](Bible_search_dialog.png)
 
 Here you can search all translations or a single translation by choosing
 in the drop-down menu. By default, all Bible translations will be used
@@ -13,7 +13,7 @@ bibles. You need to write at least four characters for Quelea to start
 searching and in the upper right corner you will see the number of
 results found.
 
-![](Bible-Searcher.png)
+![](Bible_search_results_found.png)
 
 By clicking a translation, the book that contains the results will
 appear. In this example, we start by clicking the America Standard
@@ -24,7 +24,7 @@ verses containing a search result. If only one translation is selected,
 instead of “All”, the first step will automatically skipped and the name
 of the books will be the base of the tree menu.
 
-![](Quelea_manual-e-069.png)
+![](Bible_search_tree.png)
 
 Clicking a verse will display the chapter for you to read. If you wish
 to add your search result to your schedule, click the “Add to Schedule”

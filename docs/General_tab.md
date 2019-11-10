@@ -1,71 +1,33 @@
 # General tab
 
-## User Options
+## Interface Options
 
-### Interface language
+### General Interface Options
+
+#### Interface language
 
 Allows you to select the interface language of Quelea. At this moment,
-Quelea is available in fourteen languages: English, German, Czech,
-Swedish, Hungarian, Norwegian, Dutch, Lithuanian, Portuguese, Slovenian,
-Spanish, Swahili, Bulgarian and French. More translations are greatly
-appreciated, so if you know another language that you would like to
-translate to, read more here [FAQ (Frequently Asked
+Quelea is available in 19 languages: English, Bulgarian, Chinese, Czech, 
+Dutch, Finish, French, German, Hungarian, Lithuanian, Norwegian, Polish, 
+Portuguese, Punjabi, Russian, Slovenian, Spanish, Swahili, Swedish. 
+More translations are greatly appreciated, so if you know another language 
+that you would like to translate to, read more here [FAQ (Frequently Asked
 Questions)](FAQ_\(Frequently_Asked_Questions\) "FAQ (Frequently Asked Questions)")
 
-### Application theme
+#### Application theme
 
-Allows you to set a darker color theme for the application or use the default color theme. 
+Allows you to set a darker color theme for the application or use the 
+default color theme. 
 
-### Check for update on startup
-
-Does what it says: checks if there is any later release of Quelea if you
-are connected to the Internet. However, this does not apply to so called
-nightly builds (see question in [FAQ (Frequently Asked Questions)](FAQ_\(Frequently_Asked_Questions\) "FAQ (Frequently Asked Questions)")).
-
-### Warn if only one monitor is connected
-
-Gives you a warning each time you start Quelea without a second screen
-for output. If you only mean to use Quelea to set up a schedule or only
-will use the Mobile Lyrics you might want to deactivate this, otherwise
-this is a good feature that will let you know if your projector has been
-unplugged or has a glitch.
-
-### Only preview one line per song section
-
-With long Bible passages or songs with many verses, you might want to
-prefer to only preview the first line of each slide to easier see all
-the remaining slides.
-
-### Database song preview
+#### Database song preview
 
 Allows you to choose how you preview the items you click in the song 
 database: As a small preview window in the song list, in the main preview
 panel or not at all. Even if you select "None", you can still choose to preview
-individual songs in the preview panel by holding _ctrl_ and clicking the item or 
-by dragging the song to the preview panel canvas.  
+individual songs in the preview panel by holding `ctrl` and clicking the item or 
+by dragging the song to the preview panel canvas.
 
-### Autoplay videos in live panel
-
-Will automatically play the video when you click “Go live”.
-
-### Advance schedule on live display
-
-Will make Quelea preview the next item in the schedule automatically
-when you click “Go live”.
-
-### Overflow current song into next song
-
-Use Page Down key to continue to the next item at the end of the current
-item.
-
-### Preview item on image change
-
-If an image is dragged and dropped on an item in the schedule that isn’t
-already previewed, this will make Quelea automatically preview the
-changed item. (This does not apply when individual themes are edited any
-other way.)
-
-### Show Video Library Tab (requires restart)
+#### Show Video Library Tab (requires restart)
 
 The Video Library Tab will appear next to the tabs for songs, bibles,
 images and timers. You can then add videos to your schedule the same way
@@ -73,7 +35,53 @@ you [add an
 image](Adding_items_to_Order_of_Service#adding-an-image "Adding items to Order of Service").
 This option is known to make the start-up time longer on some system.
 
-### Attempt to auto-translate songs
+#### Show extra live panel toolbar options
+
+Shows an extra 'x' button in the live panel, next to the 
+[clear-screen button](Layout#clear-screen "Clear screen"), 
+that allows you to completely hide the projecion output, e.g. if you
+ want to show something from another software.
+
+#### Thumbnail size
+
+If you feel that the thumbnail size of the preview slides for
+presentations, PDF files or images is too small, you can change it here.
+
+### Small Song Text Options
+
+#### Show small song information
+
+Displays the name of the song in the lower/upper right or left corner.
+Change the percentage of the screen that it can take up if you feel that
+the text is too small.
+
+### Small Bible Text Options
+
+#### Show small bible passage information
+
+Displays the book, chapter and verse(s) of the passage in the
+lower/upper right or left corner. Change the percentage of the screen
+that it can take up if you feel that the text is too small.
+
+## User Options
+
+### General User Options
+
+#### Check for update on startup
+
+Does what it says: checks if there is any later release of Quelea if you
+are connected to the Internet. However, this does not apply to so called
+nightly builds (see question in [FAQ (Frequently Asked Questions)](FAQ_\(Frequently_Asked_Questions\) "FAQ (Frequently Asked Questions)")).
+
+#### Warn if only one monitor is connected
+
+Gives you a warning each time you start Quelea without a second screen
+for output. If you only mean to use Quelea to set up a schedule or only
+will use the Mobile Lyrics you might want to deactivate this, otherwise
+this is a good feature that will let you know if your projector has been
+unplugged or has a glitch.
+
+#### Attempt to auto-translate songs
 
 If you are connected to the Internet, this will attempt to automatically
 translate a song to the [language you
@@ -84,7 +92,43 @@ have parts of the congregation that do not understand the language of
 the song. Of course, if someone that understands both languages could
 translate instead, that is always preferable.
 
-### Copy song to schedule by default
+### Theme Options
+
+#### Allow custom item theme to overwrite global theme
+
+Changes the behaviour of the global theme. If disabled, the global theme 
+will override any individual themes that have been set to an item.
+
+#### Preview item on image change
+
+If an image is dragged and dropped on an item in the schedule that isn’t
+already previewed, this will make Quelea automatically preview the
+changed item. (This does not apply when individual themes are edited any
+other way.)
+
+### Schedule Options
+
+#### Only preview one line per song section
+
+With long Bible passages or songs with many verses, you might want to
+prefer to only preview the first line of each slide to easier see all
+the remaining slides.  
+
+#### Autoplay videos in live panel
+
+Will automatically play the video when you click “Go live”.
+
+#### Advance schedule on live display
+
+Will make Quelea preview the next item in the schedule automatically
+when you click “Go live”.
+
+#### Overflow current song into next song
+
+Use Page Down key to continue to the next item at the end of the current
+item.
+
+#### Copy song to schedule by default
 
 Some users prefer to keep an original version of a song in the database
 and then edit a copy of that song for each use. This option means that
@@ -94,13 +138,13 @@ a song in the schedule when this option is activated only will be stored
 in that schedule, whereas any edits you make to a song in the database
 also will stored in the database.
 
-### Clear item from live view on removal from schedule
+#### Clear item from live view on removal from schedule
 
 This deletes an item that is currently live if it is removed from
 schedule. If not checked, the song will remain live until it is replaced
 with another item.
 
-### Embed media in schedule file
+#### Embed media in schedule file
 
 Makes the media available even if the schedule is sent to another
 computer or the original file is deleted. This option is good if you
@@ -108,34 +152,11 @@ want to make sure everything is available the next time the schedule is
 opened, but in case you have large files in your schedule this can make
 it hard (or even impossible) to email it to another user.
 
-### Allow custom item theme to overwrite global theme
+#### Use fade transition between slides
 
-Changes the behaviour of the global theme. If disabled, the global theme 
-will override any individual themes that have been set to an item.
-
-### Show small song information
-
-Displays the name of the song in the lower/upper right or left corner.
-Change the percentage of the screen that it can take up if you feel that
-the text is too small.
-
-### Show small bible passage information
-
-Displays the book, chapter and verse(s) of the passage in the
-lower/upper right or left corner. Change the percentage of the screen
-that it can take up if you feel that the text is too small.
-
-### Thumbnail size
-
-If you feel that the thumbnail size of the preview slides for
-presentations, PDF files or images is too small, you can change it here.
-
-### Show extra live panel toolbar options
-
-Shows an extra 'x' button in the live panel, next to the 
-[clear-screen button](Layout#clear-screen "Clear screen"), 
-that allows you to completely hide the projecion output, e.g. if you
- want to show something from another software.
+Makes the previous slide fade out and the new slide fade in to create
+a smoother transition. The transition speed can be adjusted as an
+[advanced setting](Advanced_settings "Advanced Settings").
 
 ## Text Options
 

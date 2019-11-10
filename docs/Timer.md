@@ -12,7 +12,7 @@ timer.
 ![](Timer_settings.png)
 
 Start by writing the duration of the timer. Write the amount of minutes
-followed by a colon (:) and then the amount of seconds, e.g. 5:00. If
+followed by a colon (:) and then the amount of seconds, e.g. `5:00`. If
 you would like to add a message that should be visible along with the
 timer, you can write it in the Additional Text box, as long as you
 remember to write a hash symbol (\#) where you would like the timer to

@@ -27,19 +27,27 @@ try the latest CI release, download it here:
 This highly depends on development activity and any critical bugs that
 come to light. We usually release a couple of versions a year, but that
 number will vary depending on how much there is to release\! If you
-really need a better estimate, ask on the mailing list.
+really need a better estimate, ask on the discussion group.
 
 ## Will you add (x) feature?
 
-Maybe! Feel free to [create an issue](https://github.com/quelea-projection/Quelea/issues), and we'll evaluate whether it's something that we can reasonably add.
+Maybe! Feel free to [create an issue](https://github.com/quelea-projection/Quelea/issues), 
+and we'll evaluate whether it's something that we can reasonably add.
 
 ## How do I report a bug/error?
 
-To help us better troubleshoot and fix the error we'll need [debug log](/Debug_log), so please follow the instructions on that page.
+To help us better troubleshoot and fix the error we'll need the
+[debug log](/Debug_log), so please follow the instructions on that page.
 
-Next, go to the [discussion group](https://quelea.discourse.group) and see if anyone else has already reported the same thing. Lastly, if you cannot find a thread containing your question, start a new question, describe the problem and attach the debug log.
+Next, go to the [discussion group](https://quelea.discourse.group) 
+and see if anyone else has already reported the same thing. 
+Lastly, if you cannot find a thread containing your question, 
+start a new question, describe the problem and attach the debug log.
 
-Alternatively, [create an issue](https://github.com/quelea-projection/Quelea/issues) directly and we'll take a look (you're much less likely to get potential feedback and help from other users though if you post it as an issue, so we'd advise doing that only if you're sure it's a bug.)
+Alternatively, [create an issue](https://github.com/quelea-projection/Quelea/issues) 
+directly and we'll take a look (you're much less likely to get potential 
+feedback and help from other users though if you post it as an issue, 
+so we'd advise doing that only if you're sure it's a bug.)
 
 ## If I donate money, will Quelea be developed faster?
 

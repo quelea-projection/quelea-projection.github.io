@@ -15,13 +15,12 @@ database. Once you have added songs to the database you can start
 them](Adding_items_to_Order_of_Service#organizing-a-schedule "Adding items to Order of Service")
 in the Order of Service, or a Schedule as it also is called.
 
-![Quelea_manual-e-000.png](Quelea_manual-e-000.png
-"Quelea_manual-e-000.png")
+![](Layout_schedule_database.png)
 
 Below is an example of songs in a database and an Order of Service
 (Schedule):
 
-![](Quelea_manual-e-001.png)
+![](Layout_schedule_database_example.png)
 
 ## Preview
 
@@ -31,7 +30,7 @@ different text sections or by using your keyboard’s up and down arrow
 keys. When you are ready to show the item live, just click the “Go live”
 button.
 
-![](Quelea_manual-e-002.png)
+![](Layout_preview.png)
 
 ## Live
 
@@ -39,11 +38,11 @@ In the live section you can switch between the slides by clicking the
 different text sections, by using your keyboard’s up and down arrow
 keys, the Page Up and the Page Down keys or by using section shortcuts
 (see [Shortcuts and other things that are good to
-know](Shortcuts_and_other_things_that_are_good_to_know "Shortcuts and other things that are good to know")). If
-you are not ready to show the text live just yet, you have three options
+know](Shortcuts_and_other_things_that_are_good_to_know "Shortcuts and other things that are good to know")). 
+If you are not ready to show the text live just yet, you have three options
 to hide the text: Logo button, Black Screen or Clear screen.
 
-![](Quelea_manual-e-003.png)
+![](Layout_live.png)
 
 ### Logo button
 
@@ -51,7 +50,7 @@ If you select the Logo button, the [logo you have
 pre-assigned](Logo "Logo") will appear and any changes of slide or
 item will not appear until you deselect the button.
 
-![](Quelea_manual-e-004.png)
+![](Layout_logo.png)
 
 ### Black Screen
 
@@ -59,7 +58,7 @@ If you select the Black Screen button, the projector output will be
 completely black, not displaying any changes of slide or item until you
 deselect the button.
 
-![](Quelea_manual-e-005.png)
+![](Layout_black.png)
 
 ### Clear screen
 
@@ -68,7 +67,7 @@ background image/video/colour you have pre-assigned will be the only
 thing visible on the output (see [Themes](Themes "Themes")). Any
 changes of slide or item will not appear until you deselect the button.
 
-![](Quelea_manual-e-006.png)
+![](Layout_clear.png)
 
 -----
 

@@ -2,12 +2,12 @@
 
 ## System requirements
 
-Quelea should run on Windows, Linux or MacOS. The developers all use
+Quelea should run on Windows, Linux or MacOS. Most of the developers use
 Windows in their day to day work on Quelea, so that will be the most
-stable platform by implication, A \`deb\` package is provided for debian
-based installs (including Ubuntu) but all other platforms, including
-MacOS, will require the cross platform jar installer (which will require
-the JRE to be installed first.)
+stable platform by implication. The cross platform jar installer 
+(which will require the JRE to be installed first) should work on all
+operating systems, but there is also native installers which you can
+read about below.
 
 Generally, any modern machine should be ok to run Quelea, but we would
 recommend at a minimum:
@@ -22,16 +22,33 @@ should be fine.
 
 ## Windows Install
 
-The .exe file provided on the downloads file should work with most
+The `.exe` file provided on the downloads file should work with most
 computers, if you have any problems post on the Quelea Discourse Discuss
 Group found
 [here](https://quelea.discourse.group/).
 
-For videos to work, you must have the latest version of VLC installed as
-well. It must be \*32-bit\*, even if you are running on a 64 bit
-machine, since the JRE bundled with Quelea is also 32 bit.
+## Mac Install
+
+Download the `.zip` file and extract it. Then you can drag the icon into
+the Applications folder and you should be able to run it as any other
+application.
 
 ## Linux Install
+
+### Using Snap
+
+The main method to install Quelea on a Linux system is through Snap. 
+If you use a Ubuntu-based distribution, it should already be installed. 
+If it is not installed, read about how you install it [here](https://snapcraft.io/docs/installing-snapd).
+
+Once Snap is installed, just open a terminal window and enter the following 
+line to install Quelea:
+
+```
+sudo snap install quelea
+```
+
+### Using the cross-platform installer
 
 Quelea for Linux needs Oracle Java 8. (OpenJDK8 can also be used, but only if OpenJFX8 is also installed.)
 
