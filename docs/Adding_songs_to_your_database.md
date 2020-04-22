@@ -32,9 +32,9 @@ song. For detailed information on how to do that see section 2.
 instructions under the dedicated tabs (Detailed information,
 Translations, Theme).
 
-## Importing songs from another software
+## Importing songs from other software
 
-If you are migrating from another projection software, you might already
+If you are migrating from other projection software, you might already
 have a database of songs that you would like to use. Instead of manually
 adding the songs one by one, you can use the Quelea import function.
 Quelea supports the import of databases from many of the most common
@@ -75,6 +75,12 @@ Once Quelea has finished importing the songs they will appear in your
 database and you are now able to [add songs to a
 schedule](Adding_items_to_Order_of_Service#adding-a-song "Adding items to Order of Service") and
 [showing them live.](Showing_something_live "Showing something live")
+
+## Importing from Elvanto
+
+If you're importing from Elvanto, you'll currently need to manually add your Elvanto client ID to your quelea.properties file. Eventually we'll add this to the options dialog, but this isn't something that we've done as of yet.
+
+Instructions for adding the ID manually can be found [here](https://github.com/quelea-projection/Quelea/issues/86).
 
 -----
 
