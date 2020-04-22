@@ -41,7 +41,7 @@ separate software for your presentation needs.
 The font size is automatically calculated based on how much text there is per section, so these may help:
 
 * Try to split the text into more sections by adding a blank line
-* Set a [maximum amount of verses per slide for a Bible passage](Bible_tab#layout-of-bible_passages "Bible tab")
+* Set a [maximum amount of verses per slide for a Bible passage](Bible_tab#layout-of-bible-passages "Bible tab")
 * Change the [maximum font size](General_tab#maximum-font-size "Bible tab") to a higher value
 * Lower the [maximum amount of characters per line](General_tab#maximum-characters-per-line "Bible tab")
 * Uncheck the [uniform font size](General_tab#use-uniform-font-size "Bible tab")
