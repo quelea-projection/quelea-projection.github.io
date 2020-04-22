@@ -41,10 +41,10 @@ separate software for your presentation needs.
 The font size is automatically calculated based on how much text there is per section, so these may help:
 
 * Try to split the text into more sections by adding a blank line
-* Set a [maximum amount of verses per slide for a Bible passage](/Bible_tab#Layout_of_Bible_passages "wikilink")
-* Change the [maximum font size](/General_tab#Maximum_font_size "wikilink") to a higher value
-* Lower the [maximum amount of characters per line](/General_tab#Maximum_characters_per_line "wikilink")
-* Uncheck the [uniform font size](/General_tab#Use_uniform_font_size "wikilink")
+* Set a [maximum amount of verses per slide for a Bible passage](Bible_tab#layout-of-bible_passages "Bible tab")
+* Change the [maximum font size](General_tab#maximum-font-size "Bible tab") to a higher value
+* Lower the [maximum amount of characters per line](General_tab#maximum-characters-per-line "Bible tab")
+* Uncheck the [uniform font size](General_tab#use-uniform-font-size "Bible tab")
 
 ## VLC is not found even though it is installed
 
@@ -94,7 +94,7 @@ currently no way to specifically ask for it. Some users have reported
 that they get the permission request when they run the software as administrators.
 You could also try seeing if using the cross-platform installation
 helps you. If you are experiencing issues with another operating system,
-such as Window, feel free to [open an issue for it](https://github.com/quelea-projecion/Quelea/issues).
+such as Window, feel free to [open an issue for it](https://github.com/quelea-projection/Quelea/issues).
 
 -----
 
