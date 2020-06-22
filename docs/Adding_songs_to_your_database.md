@@ -32,6 +32,12 @@ song. For detailed information on how to do that see section 2.
 instructions under the dedicated tabs (Detailed information,
 Translations, Theme).
 
+Occasionally you may notice that Quelea gets the type of line wrong - it may think a section header is lyrics for example, lyrics are actually chords, etc. If this happens, you can overrite the type by appending the following to the line:
+
+ - `//chords` to force the line to be a chord line
+ - `//lyrics` to force the line to be a lyrics line
+ - `//title` to force the line to be a title line
+
 ## Importing songs from other software
 
 If you are migrating from other projection software, you might already
