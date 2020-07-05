@@ -118,6 +118,7 @@ Select an action for when you long-press a volume button.
 Select an action for when you press both volume buttons at the same time.
 
 ## Keyboard shortcuts
+
 | Shortcut | Action |
 | --- | --- |
 | 1-9 | Navigate to a certain slide number if no section titles are found (Android) |
