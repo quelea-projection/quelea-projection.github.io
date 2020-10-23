@@ -62,6 +62,13 @@ there). Once you have opened the folder, locate the file called
 Notepad (i.e. not MS Word). There you can add a few extra settings which
 you find below.
 
+### CCLI number
+For organisations that have an agreement with the CCLI it is technically required to display the organisation's CCLI number on all copies of the lyrics.  Quelea can display your CCLI number beneath the song and copyright information when the lyrics are live.  Simply add the following to `quelea.properties`, replacing `1234` with your CCLI licence number:
+
+```
+church.ccli.num=1234
+```
+
 ### Fade in/out adjustments
 
 There is an option to edit the fade in/out duration in milliseconds. 
