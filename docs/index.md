@@ -3,6 +3,7 @@ Not sure where to look first? See [here](Short_introduction_to_Quelea "Short int
 ## Index
 
 1. [Installation Instructions](Installation_Instructions "Installation Instructions")
+    1. [Moving or copying your Quelea settings](Moving_copying_settings)
 2. [Short introduction to Quelea](Short_introduction_to_Quelea "Short introduction to Quelea")
     1. [Layout](Layout "Layout")
         1. [Schedule and Database](Layout#schedule-and-database "Layout")
