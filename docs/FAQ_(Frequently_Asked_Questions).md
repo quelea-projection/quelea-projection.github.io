@@ -60,6 +60,9 @@ and that amount of time unfortunately cannot be changed by donations.
 If you visit <http://quelea.org/resources/> you will find a few links to
 some free resources.
 
+## I'm moving computers, can I copy my settings over?
+Yes - see [Moving or copying your settings](Moving_copying_settings).
+
 -----
 
 
