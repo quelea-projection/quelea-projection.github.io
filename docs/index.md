@@ -69,7 +69,7 @@ Not sure where to look first? See [here](Short_introduction_to_Quelea "Short int
                 3. [Database song preview](General_tab#database-song-preview "Database song preview")
                 4. [Show Video Library Tab (requires restart)](General_tab#show-video-library-tab-requires-restart" Show Video Library Tab")
                 5. [Show extra live panel toolbar options](General_tab#show-extra-live-panel-toolbar-options "Show extra live panel toolbar options")
-                6. [Thumbnail size](General_tab#thumbnail0-size "Thumbnail size")
+                6. [Thumbnail size](General_tab#thumbnail-size "Thumbnail size")
             2. [Small Song Text Options](General_tab#small-song-text-options "Small Song Text Options")
                 1. [Show small song information](General_tab#show-small-song-information "Show small song information")
             2. [Small Bible Text Options](General_tab#small-bible-text-options "Small Bible Text Options")
