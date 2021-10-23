@@ -65,7 +65,7 @@ Not sure where to look first? See [here](Short_introduction_to_Quelea "Short int
         1. [Interface Options](General_tab#interface-options "Interface Options")
             1. [General Interface Options](General_tab#user-options "General tab")
                 1. [Interface language](General_tab#interface-language "Interface language")
-                2. [Application theme](General_tab#application-them "Application theme")
+                2. [Application theme](General_tab#application-theme "Application theme")
                 3. [Database song preview](General_tab#database-song-preview "Database song preview")
                 4. [Show Video Library Tab (requires restart)](General_tab#show-video-library-tab-\(requires-restart\) "Show Video Library Tab")
                 5. [Show extra live panel toolbar options](General_tab#show-extra-live-panel-toolbar-options "Show extra live panel toolbar options")
