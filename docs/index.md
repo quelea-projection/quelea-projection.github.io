@@ -109,7 +109,7 @@ Not sure where to look first? See [here](Short_introduction_to_Quelea "Short int
         2. [Automatically convert recordings to MP3 files (requires VLC)](Recordings_tab#automatically-convert-recordings-to-MP3-files-\(requires-vlc\) "Recordings tab")
     9. [Advanced settings](Advanced_settings "Advanced settings")
         1. [VLCARG](Advanced_settings#vlcarg "Advanced settings")
-        2. [CCLI licence number](Advanced_settings#CCLI number "Advanced settings")
+        2. [CCLI licence number](Advanced_settings#CCLInumber "Advanced settings")
         3. [Fade in/out adjustments](Advanced_settings#fade-in/out-adjustments "Advanced settings")
         4. [Margins](Advanced_settings#margins "Advanced settings")
         5. [Automatically extend projection window to a recently plugged in device](Advanced_settings#automatically-extend-projection-window-to-a-recently-plugged-in-device "Advanced settings")
