@@ -87,7 +87,7 @@ Not sure where to look first? See [here](Short_introduction_to_Quelea "Short int
                 2. [Autoplay videos in live panel](General_tab#autoplay-videos-in-live-panel "Autoplay videos in live panel")
                 3. [Advance schedule on live display](General_tab#advance-schedule-on-live-display "Advance schedule on live display")
                 4. [Overflow current song into next song](General_tab#overflow-current-song-into-next-song "Overflow current song into next song")
-                5. [Copy song to schedule by default](General_tab#copy-song-to-schedule-by_default "Copy song to schedule by default")
+                5. [Copy song to schedule by default](General_tab#copy-song-to-schedule-by-default "Copy song to schedule by default")
                 6. [Clear item from live view on removal from schedule](General_tab#clear-item-from-live-view-on-removal-from-schedule "Clear item from live view on removal from schedule")
                 7. [Embed media in schedule file](General_tab#embed-media-in-schedule-file "Embed media in schedule file")
         2. [Text Options](General_tab#text-options "Text options")
