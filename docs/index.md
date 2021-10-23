@@ -23,7 +23,7 @@ Not sure where to look first? See [here](Short_introduction_to_Quelea "Short int
         4. [Adding multimedia](Adding_items_to_Order_of_Service#adding-multimedia "Adding multimedia")
         5. [Adding a presentation](Adding_items_to_Order_of_Service#adding-a-presentation "Adding a presentation")
         6. [Organizing a schedule](Adding_items_to_Order_of_Service#organizing-a-schedule "Organizing a schedule")
-        7. [Themes](Adding_items_to_Order_of_Service#organizing-a-schedule "Themes")
+        7. [Themes](Adding_items_to_Order_of_Service#themes "Themes")
     5. [Showing something live](Showing_something_live "Showing something live")
     6. [Ready to go](Ready_to_go "Ready to go")
 3. [Additional features](Additional_features "Additional features")
