@@ -106,7 +106,7 @@ Not sure where to look first? See [here](Short_introduction_to_Quelea "Short int
     7. [Server Settings tab](Server_Settings_tab "Server Settings tab")
     8. [Recordings tab](Recordings_tab "Recordings tab")
         1. [Path for recordings](Recordings_tab#path-for-recordings "Path for recordings")
-        2. [Automatically convert recordings to MP3 files (requires VLC)](Recordings_tab#automatically-convert-recordings-to-MP3-files-\(requires-vlc\) "Automatically convert recordings to MP3 files (requires VLC)")
+        2. [Automatically convert recordings to MP3 files (requires VLC)](Recordings_tab#automatically-convert-recordings-to-MP3-files-requires-vlc "Automatically convert recordings to MP3 files (requires VLC)")
     9. [Advanced settings](Advanced_settings "Advanced settings")
         1. [VLCARG](Advanced_settings#vlcarg "VLCARG")
         2. [CCLI licence number](Advanced_settings#ccli-number "CCLI licence number")
