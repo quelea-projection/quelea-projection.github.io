@@ -20,7 +20,7 @@ Not sure where to look first? See [here](Short_introduction_to_Quelea "Short int
         1. [Adding a song](Adding_items_to_Order_of_Service#adding-a-song "Adding a song")
         2. [Adding a Bible passage](Adding_items_to_Order_of_Service#adding-a-bible-passage "Adding a Bible passage")
         3. [Adding an image](Adding_items_to_Order_of_Service#adding-an-image "Adding an image")
-        4. [Adding a video](Adding_items_to_Order_of_Service#adding-a-video "Adding a video")
+        4. [Adding multimedia](Adding_items_to_Order_of_Service#adding-multimedia "Adding multimedia")
         5. [Adding a presentation](Adding_items_to_Order_of_Service#adding-a-presentation "Adding a presentation")
         6. [Organizing a schedule](Adding_items_to_Order_of_Service#organizing-a-schedule "Organizing a schedule")
         7. [Themes](Adding_items_to_Order_of_Service#organizing-a-schedule "Themes")
