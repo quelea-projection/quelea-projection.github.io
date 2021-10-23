@@ -66,6 +66,7 @@ that it can take up if you feel that the text is too small.
 ## User Options
 
 ### General User Options
+![](General_user_options.png)
 
 #### Check for update on startup
 
@@ -91,6 +92,9 @@ used only as a way to get the basic understanding of the song if you
 have parts of the congregation that do not understand the language of
 the song. Of course, if someone that understands both languages could
 translate instead, that is always preferable.
+
+#### CCLI number
+For organisations that have an agreement with the CCLI it is technically required to display the organisation’s CCLI number on all copies of the lyrics.  You can set this by entering your CCLI number in the box.
 
 ### Theme Options
 
