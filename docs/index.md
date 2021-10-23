@@ -110,7 +110,7 @@ Not sure where to look first? See [here](Short_introduction_to_Quelea "Short int
     9. [Advanced settings](Advanced_settings "Advanced settings")
         1. [VLCARG](Advanced_settings#vlcarg "VLCARG")
         2. [CCLI licence number](Advanced_settings#ccli-number "CCLI licence number")
-        3. [Fade in/out adjustments](Advanced_settings#fade-in/out-adjustments "Fade in/out adjustments")
+        3. [Fade in/out adjustments](Advanced_settings#fade-inout-adjustments "Fade in/out adjustments")
         4. [Margins](Advanced_settings#margins "Margins")
         5. [Automatically extend projection window to a recently plugged in device](Advanced_settings#automatically-extend-projection-window-to-a-recently-plugged-in-device "Automatically extend projection window to a recently plugged in device")
         6. [Adjust fade transition speed](Advanced_settings#adjust-fade-transition-speed "Adjust fade transition speed")
