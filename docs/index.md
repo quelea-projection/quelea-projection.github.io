@@ -101,7 +101,7 @@ Not sure where to look first? See [here](Short_introduction_to_Quelea "Short int
     4. [Notices tab](Notices_tab "Notices tab")
     5. [Presentations tab](Presentations_tab "Presentations tab")
     6. [Bible tab](Bible_tab "Bible tab")
-        1. [Default bible and add a bible](Bible_tab#default-bible-and-add-a-bible "Default bible and add a bible")
+        1. [Default bible and add a bible](Bible_tab#default-bible "Default bible and add a bible")
         2. [Layout of bible passages](Bible_tab#layout-of-bible-passages "Layout of bible passages")
     7. [Server Settings tab](Server_Settings_tab "Server Settings tab")
     8. [Recordings tab](Recordings_tab "Recordings tab")
