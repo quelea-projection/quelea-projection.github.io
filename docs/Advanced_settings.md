@@ -69,6 +69,8 @@ For organisations that have an agreement with the CCLI it is technically require
 church.ccli.num=1234
 ```
 
+Since Quelea version 2021.0 it is possible to add the CCLI licence number [via the user options](General tab#ccli-number "Setting the CCLI number").
+
 ### Fade in/out adjustments
 
 There is an option to edit the fade in/out duration in milliseconds. 
